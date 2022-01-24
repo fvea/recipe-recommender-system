@@ -2,12 +2,13 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
+import pandas as pd
 
-
-driver = webdriver.Chrome(r'C:\Users\fjvin\ulam_recommender_system\data_collection\chromedriver.exe')
+driver = webdriver.Chrome(r'data_collection\chromedriver.exe')
 driver.get('https://www.tasteatlas.com/100-most-popular-foods-in-philippines')
+
 link_texts = ['', '(50-11) Filipino Foods', '(10-1) Filipino Foods']
-ulam_ingredients = {}
+ulam_ingredients = []
 
 for link_text in link_texts:
 
@@ -23,16 +24,18 @@ for link_text in link_texts:
         articles = driver.find_elements_by_class_name("top-list-article__item--shrinked")
         for article in articles:
             ulam_title = article.find_element_by_tag_name('h2').text
+            if ulam_title == 'Pancit' or ulam_title == 'Lumpia': continue
             try:
                 ul_elem = article.find_element_by_tag_name('ul')
             except:
-                print('{0}: {1}'.format(ulam_title, []))
-                ulam_ingredients[ulam_title] = []
                 continue
-            ingredients = [li.text for li in ul_elem.find_elements_by_tag_name('li')]
+            ingredients = {li.text.split('OR\n')[-1]:1 for li in ul_elem.find_elements_by_tag_name('li')}
             print('{0}: {1}'.format(ulam_title, ingredients))
-            ulam_ingredients[ulam_title] = ingredients
+            ulam_ingredients.append(pd.Series(ingredients, name=ulam_title))
 
 driver.quit()
-print(len(ulam_ingredients))
+# convert to DataFrame
+ulam_df = pd.DataFrame(ulam_ingredients)
+ulam_df.to_csv(r'data_collection\ulam.csv')
+print('web scraping done!')
 
