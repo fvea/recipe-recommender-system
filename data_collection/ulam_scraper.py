@@ -3,39 +3,36 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
+
 driver = webdriver.Chrome(r'C:\Users\fjvin\ulam_recommender_system\data_collection\chromedriver.exe')
-
 driver.get('https://www.tasteatlas.com/100-most-popular-foods-in-philippines')
+link_texts = ['', '(50-11) Filipino Foods', '(10-1) Filipino Foods']
+ulam_ingredients = {}
 
-try:
-    element = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.CLASS_NAME, "top-list-article__list"))
-    )
-finally:
-    ulam_ingredients = {}
+for link_text in link_texts:
 
-    for i in range(1, 51):
+    if link_text != '': 
+        link_elem =  driver.find_element_by_link_text(link_text)
+        link_elem.click()
 
-        xpath = '//*[@id="19402"]/section/div[{}]'.format(i)
+    try:
+        _ = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CLASS_NAME, "top-list-article__list"))
+        )
+    finally:
+        articles = driver.find_elements_by_class_name("top-list-article__item--shrinked")
+        for article in articles:
+            ulam_title = article.find_element_by_tag_name('h2').text
+            try:
+                ul_elem = article.find_element_by_tag_name('ul')
+            except:
+                print('{0}: {1}'.format(ulam_title, []))
+                ulam_ingredients[ulam_title] = []
+                continue
+            ingredients = [li.text for li in ul_elem.find_elements_by_tag_name('li')]
+            print('{0}: {1}'.format(ulam_title, ingredients))
+            ulam_ingredients[ulam_title] = ingredients
 
-        div_elem = driver.find_element_by_xpath(xpath=xpath)
-
-        ulam_title = div_elem.find_element_by_tag_name('h2').text
-
-        try:
-            ul_elem = div_elem.find_element_by_tag_name('ul')
-        except:
-            print('iteration#{0} -> {1}: {2}'.format(i, ulam_title, []))
-            ulam_ingredients[ulam_title] = []
-            continue
-
-        ingredients = []
-        for li in ul_elem.find_elements_by_tag_name('li'):
-            ingredients.append(li.text)
-        
-        print('iteration#{0} -> {1}: {2}'.format(i, ulam_title, ingredients))
-        ulam_ingredients[ulam_title] = ingredients
-
-    driver.quit()
-        
+driver.quit()
+print(len(ulam_ingredients))
 
