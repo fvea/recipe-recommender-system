@@ -1,90 +1,92 @@
-,CHICKEN,ONION,GARLIC,SOY SAUCE,WHITE WINE VINEGAR,BAY LEAF,BROWN SUGAR,PEPPERCORNS,OIL,VINEGAR,GINGER,FISH SAUCE,BLACK PEPPER,SALT,PORK,SEAFOOD,CITRUS FRUIT,SHALLOTS,CARROT,CORIANDER,BELL PEPPER,NOODLES,BEEF,HOT DOG,BANANA KETCHUP,SUGAR,EGGS,ANNATTO POWDER,FLOUR,COCONUT,OFFAL,TLAOLA SERRANO CHILI PEPPER,CABBAGE,POTATOES,GREEN BEANS,LIME,LEMON,STOCK,BOK CHOY,PLANTAIN,STAR ANISE,BANANAS,COCONUT MILK,CORNSTARCH,CORN,CHEESE,LATIK,SHRIMP PASTE,RICE FLOUR,VANILLA,CONDENSED MILK,CREAM OF TARTAR,OLIVE OIL,OLIVES,RAISINS,CAPERS,TOMATO,CUMIN,SQUID,YAM,MILK,CHICKPEAS,LEEK,COCONUT CREAM,BANGUS,CAYENNE PEPPER,EGGPLANT,SHRIMPS,TAMARIND,WATER SPINACH,OKRA,LYE WATER,SWEET AND SOUR SAUCE,BAKING POWDER,SCALLIONS,SPINACH,PUMPKIN,LONG BEANS,CREAM,CHICHARRÓN,RADISH,SAUSAGE,PICKLED CUCUMBERS,TOMATO SAUCE,RICE,COCOA BEANS,SWEET POTATO,TAPIOCA,DURIAN,GELATIN,TUNA,HOT PEPPERS,TAPA (PHILIPPINES),BONE MARROW,QUAIL EGG,BITTER MELON,PAPAYA,CASHEWS,BUTTER,RUM,KETCHUP,MUNG BEAN,RED BEAN PASTE,SESAME SEEDS,DAIKON RADISH,CASSAVA,LEMONGRASS,TOFU,RICE WINE,ORANGE JUICE,PINEAPPLE JUICE,SARDINES,TARO,ICE CREAM,LECHE FLAN,SPAM,TOCINO,GUAVA,GOAT,OXTAIL,PEANUT BUTTER,PEANUTS
-Adobong manok,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Talunan,1.0,,1.0,,,1.0,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Kilawin,,1.0,,,,,,,,1.0,1.0,,,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Filipino Spaghetti,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Tokneneng,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bukayo,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Papaitan,,1.0,1.0,,,,,,,,1.0,,1.0,1.0,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lauya,1.0,,1.0,,,,,1.0,,,,1.0,,1.0,1.0,,,,1.0,,,,1.0,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pinikpikan,1.0,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Inihaw na liempo,,,1.0,1.0,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bistek Tagalog,,1.0,1.0,1.0,,,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Nilagang baka,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,1.0,,,,,,,,,,1.0,1.0,,,,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Banana Cue,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Maja blanca,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Binagoongan,1.0,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Kalamay,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Brazo de Mercedes,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,1.0,1.0,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Giniling,,1.0,1.0,,,,,,,,,,,1.0,,,,,,,1.0,,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Adobong pusit,,1.0,1.0,1.0,,,,,1.0,1.0,,,,1.0,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Ube halaya,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,1.0,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pochero,1.0,1.0,1.0,,,,,1.0,,,,1.0,,,1.0,,,,,,,,1.0,,,,,,,,,,1.0,1.0,1.0,,,,1.0,1.0,,,,,,,,,,,,,,,,,1.0,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Latik,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Paksiw,,1.0,1.0,,,,,1.0,,1.0,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Daing na bangus,,,1.0,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Tortang talong,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sinigang na hipon,,1.0,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Kutsinta,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Palitaw,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lumpiang Shanghai,,1.0,,,,,,,,,,,1.0,1.0,1.0,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Espasol,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sapin-sapin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,1.0,1.0,1.0,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Maruya,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Cascaron,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Utan,,,,,,,,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0,,,,1.0,,,,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pancit lomi,1.0,,,,,,,,,,,,,,1.0,,,,1.0,,,1.0,,,,,1.0,,,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Buko Pie,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pancit malabon,,,,,,,,,,,,1.0,1.0,1.0,1.0,,,,,,,1.0,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bopis,,1.0,1.0,,,,,,,1.0,,1.0,,,,,,,1.0,,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sinigang na baboy,,1.0,1.0,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Morcon,,,,,,,,,,,,,,,1.0,,,,1.0,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Afritada,1.0,,,,,,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bola-bola,,1.0,1.0,1.0,,,,,,,,,1.0,1.0,1.0,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Champorado,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bilo-bilo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Gulaman,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lugaw,1.0,,1.0,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Proben,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pancit bihon,1.0,,,1.0,,,,,,,,,,,1.0,,,,1.0,,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Kinilaw,,1.0,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Tapsilog,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Batchoy,,1.0,1.0,,,,,,,,,,1.0,1.0,1.0,,,,,,,1.0,,,,1.0,1.0,,,,1.0,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,1.0,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Kwek kwek,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pancit palabok,,,1.0,,,,,,,,,1.0,1.0,,,,,,,,,1.0,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Arroz caldo,1.0,1.0,1.0,,,,,,,,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bicol Express,,1.0,1.0,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Menudo Filipino,,,,,,,,,,,,,,,1.0,,,,1.0,,1.0,,,1.0,,,,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pinakbet,,1.0,1.0,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,1.0,,,,,,,,,,1.0,,,,1.0,,,,,,1.0,,,,,,,,,,1.0,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,
-Tinolang manok,1.0,,1.0,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,
-Sans rival,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,
-Mechado,,1.0,1.0,1.0,,,,,,,,,1.0,1.0,1.0,,,,1.0,,1.0,,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pares,,1.0,1.0,1.0,,,,,,,1.0,,1.0,1.0,,,,,,,,,1.0,,,1.0,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Dinuguan,,1.0,1.0,,,,,,,1.0,1.0,1.0,,,1.0,,,,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Isaw,1.0,1.0,1.0,1.0,,,,,,1.0,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,
-Butsi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,
-Bibingka,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,1.0,,,,,,,,,,,,,1.0,,,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,
-Atchara,,1.0,1.0,,,,,1.0,,1.0,1.0,,,1.0,,,,,1.0,,1.0,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Pichi-pichi,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,
-Puto,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Inasal na manok,1.0,,1.0,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,
-Taho,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,
-Tinola,1.0,,1.0,,,,,,,,1.0,1.0,,,,1.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,
-Lechon kawali,,,,,,,,1.0,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Tocino,,,,1.0,,,,,,,,,,1.0,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,
-Turon,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Bulalô,,1.0,,,,,,1.0,,,,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,1.0,,,,1.0,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Pinangat,,,,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,1.0,,,,,1.0,1.0,,,,,,,,,
-Halo-Halo,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,1.0,,,,,,,,,,,,,1.0,,,,,,,,,,,,1.0,1.0,,,,,,,
-Pancit canton,,1.0,,1.0,,,,,,,,,,,1.0,1.0,,,1.0,,,1.0,1.0,,,,,,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Silog,1.0,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,
-Torta,,1.0,,,,,,,,,,,,,,,,,,,,,1.0,,,,1.0,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Leche Flan,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Tapa (Philippines),,,1.0,1.0,,,,,,,,,,,,,,,,,,,1.0,,,1.0,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Crispy Pata,,,,,,1.0,,1.0,,,,,,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sinigang,,,,,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0,,1.0,1.0,,,,,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,
-Kaldereta,,1.0,1.0,,,1.0,,,,,,,1.0,,,,,,1.0,,1.0,,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,
-Kare-kare,1.0,1.0,1.0,,,,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0,1.0,1.0
-Adobo,1.0,,1.0,1.0,,1.0,,,1.0,1.0,,,1.0,1.0,1.0,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Sisig,,1.0,,1.0,,,,,,1.0,,,1.0,1.0,1.0,,,,,,,,,,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Lechon,,1.0,1.0,,,1.0,,,,,,,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.0,,,,,,,,,,,,,,,
+,ulam_titles,ingredients
+0,Adobong manok,"['CHICKEN', 'ONION', 'GARLIC', 'SOY SAUCE', 'WHITE WINE VINEGAR', 'BAY LEAF', 'BROWN SUGAR', 'PEPPERCORNS', 'OIL']"
+1,Talunan,"['CHICKEN', 'VINEGAR', 'GINGER', 'GARLIC', 'FISH SAUCE', 'BLACK PEPPER', 'SALT', 'BAY LEAF']"
+2,Kilawin,"['OR\nPORK', 'SEAFOOD', 'VINEGAR', 'CITRUS FRUIT', 'ONION', 'GINGER', 'SHALLOTS', 'CARROT', 'CORIANDER', 'BELL PEPPER', 'SALT']"
+3,Filipino Spaghetti,"['NOODLES', 'BEEF', 'HOT DOG', 'BANANA KETCHUP', 'SUGAR']"
+4,Tokneneng,"['EGGS', 'ANNATTO POWDER', 'FLOUR', 'SALT', 'BLACK PEPPER']"
+5,Bukayo,"['COCONUT', 'SUGAR']"
+6,Papaitan,"['OFFAL', 'ONION', 'GINGER', 'GARLIC', 'BLACK PEPPER', 'SALT', 'TLAOLA SERRANO CHILI PEPPER']"
+7,Lauya,"['OR\nCHICKEN', 'OR\nPORK', 'BEEF', 'CABBAGE', 'CARROT', 'POTATOES', 'GARLIC', 'PEPPERCORNS', 'OR\nFISH SAUCE', 'SALT', 'TLAOLA SERRANO CHILI PEPPER']"
+8,Pinikpikan,"['CHICKEN', 'PORK', 'CABBAGE', 'GREEN BEANS', 'SALT']"
+9,Inihaw na liempo,"['PORK', 'SOY SAUCE', 'LIME', 'SALT', 'BLACK PEPPER', 'GARLIC']"
+10,Bistek Tagalog,"['BEEF', 'OR\nLIME', 'LEMON', 'ONION', 'GARLIC', 'SOY SAUCE', 'BLACK PEPPER']"
+11,Nilagang baka,"['BEEF', 'STOCK', 'BOK CHOY', 'PLANTAIN', 'CABBAGE', 'POTATOES', 'STAR ANISE', 'SALT', 'BLACK PEPPER', 'FISH SAUCE']"
+12,Banana Cue,"['BANANAS', 'SUGAR']"
+13,Maja blanca,"['COCONUT MILK', 'CORNSTARCH', 'CORN', 'CHEESE', 'LATIK']"
+14,Binagoongan,"['OR\nPORK', 'OR\nCHICKEN', 'BEEF', 'SHRIMP PASTE']"
+15,Kalamay,"['COCONUT MILK', 'RICE FLOUR', 'SUGAR']"
+16,Brazo de Mercedes,"['EGGS', 'VANILLA', 'CONDENSED MILK', 'SUGAR', 'OR\nLIME', 'LEMON', 'CREAM OF TARTAR']"
+17,Giniling,"['BEEF', 'BELL PEPPER', 'OLIVE OIL', 'GARLIC', 'ONION', 'OLIVES', 'RAISINS', 'CAPERS', 'TOMATO', 'CUMIN', 'SUGAR', 'SALT']"
+18,Adobong pusit,"['SQUID', 'VINEGAR', 'SOY SAUCE', 'ONION', 'TOMATO', 'GARLIC', 'SALT', 'SUGAR', 'OIL']"
+19,Ube halaya,"['YAM', 'OR\nMILK', 'OR\nCOCONUT MILK', 'CONDENSED MILK', 'SUGAR', 'VANILLA']"
+20,Pochero,"['OR\nBEEF', 'OR\nPORK', 'CHICKEN', 'TOMATO', 'ONION', 'GARLIC', 'FISH SAUCE', 'PEPPERCORNS', 'CHICKPEAS', 'LEEK', 'PLANTAIN', 'POTATOES', 'CABBAGE', 'BOK CHOY', 'GREEN BEANS']"
+21,Latik,"['COCONUT MILK', 'COCONUT CREAM', 'SUGAR']"
+22,Paksiw,"['BANGUS', 'VINEGAR', 'GINGER', 'GARLIC', 'ONION', 'SALT', 'PEPPERCORNS']"
+23,Daing na bangus,"['BANGUS', 'VINEGAR', 'GARLIC', 'CAYENNE PEPPER', 'SALT']"
+24,Tortang talong,"['EGGPLANT', 'EGGS']"
+25,Sinigang na hipon,"['SHRIMPS', 'TAMARIND', 'TOMATO', 'ONION', 'WATER SPINACH', 'OKRA', 'EGGPLANT', 'TLAOLA SERRANO CHILI PEPPER', 'OR\nFISH SAUCE', 'BLACK PEPPER']"
+26,Kutsinta,"['RICE FLOUR', 'SUGAR', 'LYE WATER', 'ANNATTO POWDER']"
+27,Palitaw,"['RICE FLOUR', 'COCONUT', 'SUGAR']"
+28,Lumpiang Shanghai,"['OR\nPORK', 'BEEF', 'CARROT', 'ONION', 'SALT', 'BLACK PEPPER', 'SWEET AND SOUR SAUCE']"
+29,Espasol,"['RICE FLOUR', 'COCONUT', 'COCONUT MILK']"
+30,Sapin-sapin,"['RICE FLOUR', 'COCONUT MILK', 'CONDENSED MILK', 'VANILLA', 'YAM', 'LATIK']"
+31,Maruya,"['BANANAS', 'EGGS', 'FLOUR', 'BAKING POWDER']"
+32,Cascaron,"['RICE FLOUR', 'COCONUT', 'COCONUT MILK', 'SUGAR']"
+33,Utan,"['EGGPLANT', 'OKRA', 'GINGER', 'TOMATO', 'SCALLIONS', 'SPINACH', 'PUMPKIN', 'LONG BEANS', 'SALT']"
+34,Pancit lomi,"['NOODLES', 'OR\nCHICKEN', 'OR\nPORK', 'OFFAL', 'CABBAGE', 'CARROT', 'EGGS']"
+35,Buko Pie,"['COCONUT', 'CONDENSED MILK', 'CREAM', 'SUGAR']"
+36,Pancit malabon,"['NOODLES', 'PORK', 'SHRIMPS', 'FISH SAUCE', 'CABBAGE', 'CHICHARRÓN', 'EGGS', 'SALT', 'BLACK PEPPER']"
+37,Bopis,"['OFFAL', 'VINEGAR', 'FISH SAUCE', 'GARLIC', 'ONION', 'CARROT', 'BELL PEPPER']"
+38,Sinigang na baboy,"['PORK', 'TAMARIND', 'TOMATO', 'ONION', 'GARLIC', 'OKRA', 'RADISH', 'WATER SPINACH', 'TLAOLA SERRANO CHILI PEPPER']"
+39,Morcon,"['OR\nPORK', 'BEEF', 'SAUSAGE', 'CARROT', 'PICKLED CUCUMBERS', 'EGGS']"
+40,Afritada,"['CHICKEN', 'TOMATO SAUCE', 'POTATOES', 'BELL PEPPER', 'CARROT']"
+41,Bola-bola,"['OR\nBEEF', 'PORK', 'ONION', 'EGGS', 'SOY SAUCE', 'GARLIC', 'BLACK PEPPER', 'SALT', 'TOMATO SAUCE', 'SWEET AND SOUR SAUCE']"
+42,Champorado,"['RICE', 'COCOA BEANS', 'SUGAR', 'CONDENSED MILK']"
+43,Bilo-bilo,"['RICE FLOUR', 'COCONUT MILK', 'SWEET POTATO', 'TAPIOCA', 'DURIAN', 'BANANAS']"
+44,Gulaman,"['GELATIN', 'VANILLA', 'CONDENSED MILK']"
+45,Lugaw,"['RICE', 'CHICKEN', 'FISH SAUCE', 'GINGER', 'GARLIC', 'SCALLIONS', 'EGGS']"
+46,Proben,"['OFFAL', 'CORNSTARCH']"
+47,Pancit bihon,"['OR\nPORK', 'CHICKEN', 'NOODLES', 'SOY SAUCE', 'GREEN BEANS', 'CARROT']"
+48,Kinilaw,"['TUNA', 'VINEGAR', 'ONION', 'GINGER', 'GARLIC', 'HOT PEPPERS']"
+49,Tapsilog,"['TAPA (PHILIPPINES)', 'EGGS', 'RICE', 'GARLIC']"
+50,Batchoy,"['NOODLES', 'STOCK', 'PORK', 'BONE MARROW', 'OFFAL', 'EGGS', 'CHICHARRÓN', 'ONION', 'SCALLIONS', 'GARLIC', 'SUGAR', 'SALT', 'BLACK PEPPER']"
+51,Kwek kwek,"['CORNSTARCH', 'QUAIL EGG', 'ANNATTO POWDER']"
+52,Pancit palabok,"['NOODLES', 'SHRIMPS', 'FISH SAUCE', 'EGGS', 'CHICHARRÓN', 'SCALLIONS', 'BLACK PEPPER', 'GARLIC']"
+53,Arroz caldo,"['CHICKEN', 'RICE', 'GINGER', 'FISH SAUCE', 'ONION', 'GARLIC', 'SALT', 'BLACK PEPPER']"
+54,Bicol Express,"['PORK', 'COCONUT CREAM', 'SHRIMP PASTE', 'HOT PEPPERS', 'ONION', 'GARLIC', 'SALT', 'BLACK PEPPER']"
+55,Menudo Filipino,"['PORK', 'OFFAL', 'HOT DOG', 'TOMATO SAUCE', 'POTATOES', 'CARROT', 'BELL PEPPER', 'RAISINS']"
+56,Pinakbet,"['PORK', 'SHRIMP PASTE', 'PUMPKIN', 'SWEET POTATO', 'EGGPLANT', 'OKRA', 'GREEN BEANS', 'BITTER MELON', 'TOMATO', 'GARLIC', 'ONION', 'SALT', 'BLACK PEPPER']"
+57,Tinolang manok,"['CHICKEN', 'PAPAYA', 'TLAOLA SERRANO CHILI PEPPER', 'GINGER', 'GARLIC', 'FISH SAUCE']"
+58,Sans rival,"['CASHEWS', 'EGGS', 'SUGAR', 'VANILLA', 'BUTTER', 'RUM']"
+59,Mechado,"['OR\nBEEF', 'PORK', 'TOMATO SAUCE', 'SOY SAUCE', 'POTATOES', 'BELL PEPPER', 'CARROT', 'GARLIC', 'ONION', 'SALT', 'BLACK PEPPER']"
+60,Pares,"['BEEF', 'SOY SAUCE', 'STAR ANISE', 'GINGER', 'GARLIC', 'ONION', 'SUGAR', 'SALT', 'BLACK PEPPER']"
+61,Dinuguan,"['PORK', 'VINEGAR', 'FISH SAUCE', 'ONION', 'GINGER', 'GARLIC', 'SUGAR', 'TLAOLA SERRANO CHILI PEPPER']"
+62,Butsi,"['RICE FLOUR', 'MUNG BEAN', 'OR\nRED BEAN PASTE', 'COCONUT', 'SESAME SEEDS']"
+63,Bibingka,"['RICE FLOUR', 'EGGS', 'COCONUT MILK', 'BUTTER', 'CHEESE', 'COCONUT']"
+64,Atchara,"['PAPAYA', 'CARROT', 'ONION', 'DAIKON RADISH', 'BELL PEPPER', 'VINEGAR', 'SUGAR', 'GINGER', 'GARLIC', 'SALT', 'PEPPERCORNS']"
+65,Pichi-pichi,"['CASSAVA', 'SUGAR', 'COCONUT', 'CHEESE']"
+66,Puto,"['FLOUR', 'MILK', 'EGGS', 'BAKING POWDER', 'CHEESE']"
+67,Inasal na manok,"['CHICKEN', 'VINEGAR', 'LEMONGRASS', 'GARLIC', 'GINGER']"
+68,Isaw,"['OR\nPORK', 'CHICKEN', 'SOY SAUCE', 'KETCHUP', 'GARLIC', 'VINEGAR', 'ONION', 'HOT PEPPERS']"
+69,Taho,"['TOFU', 'TAPIOCA', 'SUGAR']"
+70,Tinola,"['OR\nCHICKEN', 'SEAFOOD', 'FISH SAUCE', 'PAPAYA', 'GINGER', 'GARLIC', 'TLAOLA SERRANO CHILI PEPPER']"
+71,Lechon kawali,"['PORK', 'SALT', 'PEPPERCORNS']"
+72,Tocino,"['PORK', 'SUGAR', 'SALT', 'RICE WINE', 'SOY SAUCE', 'OR\nPINEAPPLE JUICE', 'ORANGE JUICE']"
+73,Turon,"['PLANTAIN', 'DURIAN', 'SUGAR']"
+74,Bulalô,"['BEEF', 'BONE MARROW', 'FISH SAUCE', 'ONION', 'CORN', 'GREEN BEANS', 'PEPPERCORNS', 'BOK CHOY']"
+75,Pinangat,"['OR\nTUNA', 'OR\nSARDINES', 'PORK', 'COCONUT MILK', 'GINGER', 'TARO', 'LEMONGRASS', 'HOT PEPPERS']"
+76,Halo-Halo,"['ICE CREAM', 'LECHE FLAN', 'MILK', 'BANANAS', 'DURIAN', 'MUNG BEAN', 'COCONUT', 'SWEET POTATO', 'YAM', 'SUGAR']"
+77,Pancit canton,"['NOODLES', 'OR\nPORK', 'OR\nBEEF', 'SEAFOOD', 'SOY SAUCE', 'CARROT', 'ONION', 'CABBAGE', 'GREEN BEANS']"
+78,Silog,"['RICE', 'EGGS', 'GARLIC', 'OR\nTAPA (PHILIPPINES)', 'OR\nHOT DOG', 'OR\nTOCINO', 'OR\nBANGUS', 'OR\nSPAM', 'CHICKEN']"
+79,Torta,"['EGGS', 'BEEF', 'ONION', 'POTATOES', 'EGGPLANT', 'TOMATO']"
+80,Leche Flan,"['EGGS', 'MILK', 'CONDENSED MILK', 'SUGAR', 'VANILLA']"
+81,Tapa (Philippines),"['BEEF', 'LIME', 'SOY SAUCE', 'GARLIC', 'SUGAR']"
+82,Crispy Pata,"['PORK', 'BAY LEAF', 'PEPPERCORNS', 'SALT']"
+83,Sinigang,"['OR\nTAMARIND', 'GUAVA', 'RADISH', 'TOMATO', 'EGGPLANT', 'WATER SPINACH', 'LONG BEANS', 'SALT', 'TLAOLA SERRANO CHILI PEPPER', 'OR\nPORK', 'SEAFOOD']"
+84,Kaldereta,"['OR\nBEEF', 'GOAT', 'TOMATO SAUCE', 'POTATOES', 'CARROT', 'ONION', 'BAY LEAF', 'BELL PEPPER', 'GARLIC', 'BLACK PEPPER']"
+85,Kare-kare,"['OR\nPORK', 'OR\nOXTAIL', 'OR\nCHICKEN', 'GOAT', 'PEANUT BUTTER', 'PEANUTS', 'LONG BEANS', 'EGGPLANT', 'BOK CHOY', 'GARLIC', 'ONION', 'SALT', 'BLACK PEPPER', 'SHRIMP PASTE']"
+86,Lumpia,['LUMPIANG SHANGHAI']
+87,Adobo,"['OR\nCHICKEN', 'OR\nPORK', 'SQUID', 'VINEGAR', 'SOY SAUCE', 'BAY LEAF', 'GARLIC', 'OIL', 'SALT', 'BLACK PEPPER', 'SUGAR']"
+88,Sisig,"['PORK', 'OFFAL', 'VINEGAR', 'ONION', 'HOT PEPPERS', 'SOY SAUCE', 'BLACK PEPPER', 'SALT', 'EGGS']"
+89,Lechon,"['PORK', 'ONION', 'GARLIC', 'LEMONGRASS', 'BAY LEAF', 'SALT', 'BLACK PEPPER']"
+90,Pancit,"['PANCIT CANTON', 'PANCIT BIHON', 'PANCIT PALABOK', 'PANCIT MALABON', 'PANCIT LOMI', 'PANCIT LUCBAN', 'PANCIT SOTANGHON', 'PANCIT BATIL PATONG']"
