@@ -1,92 +1,276 @@
-,ulam_titles,ingredients
-0,Adobong manok,"['CHICKEN', 'ONION', 'GARLIC', 'SOY SAUCE', 'WHITE WINE VINEGAR', 'BAY LEAF', 'BROWN SUGAR', 'PEPPERCORNS', 'OIL']"
-1,Talunan,"['CHICKEN', 'VINEGAR', 'GINGER', 'GARLIC', 'FISH SAUCE', 'BLACK PEPPER', 'SALT', 'BAY LEAF']"
-2,Kilawin,"['OR\nPORK', 'SEAFOOD', 'VINEGAR', 'CITRUS FRUIT', 'ONION', 'GINGER', 'SHALLOTS', 'CARROT', 'CORIANDER', 'BELL PEPPER', 'SALT']"
-3,Filipino Spaghetti,"['NOODLES', 'BEEF', 'HOT DOG', 'BANANA KETCHUP', 'SUGAR']"
-4,Tokneneng,"['EGGS', 'ANNATTO POWDER', 'FLOUR', 'SALT', 'BLACK PEPPER']"
-5,Bukayo,"['COCONUT', 'SUGAR']"
-6,Papaitan,"['OFFAL', 'ONION', 'GINGER', 'GARLIC', 'BLACK PEPPER', 'SALT', 'TLAOLA SERRANO CHILI PEPPER']"
-7,Lauya,"['OR\nCHICKEN', 'OR\nPORK', 'BEEF', 'CABBAGE', 'CARROT', 'POTATOES', 'GARLIC', 'PEPPERCORNS', 'OR\nFISH SAUCE', 'SALT', 'TLAOLA SERRANO CHILI PEPPER']"
-8,Maja blanca,"['COCONUT MILK', 'CORNSTARCH', 'CORN', 'CHEESE', 'LATIK']"
-9,Inihaw na liempo,"['PORK', 'SOY SAUCE', 'LIME', 'SALT', 'BLACK PEPPER', 'GARLIC']"
-10,Bistek Tagalog,"['BEEF', 'OR\nLIME', 'LEMON', 'ONION', 'GARLIC', 'SOY SAUCE', 'BLACK PEPPER']"
-11,Nilagang baka,"['BEEF', 'STOCK', 'BOK CHOY', 'PLANTAIN', 'CABBAGE', 'POTATOES', 'STAR ANISE', 'SALT', 'BLACK PEPPER', 'FISH SAUCE']"
-12,Pinikpikan,"['CHICKEN', 'PORK', 'CABBAGE', 'GREEN BEANS', 'SALT']"
-13,Banana Cue,"['BANANAS', 'SUGAR']"
-14,Binagoongan,"['OR\nPORK', 'OR\nCHICKEN', 'BEEF', 'SHRIMP PASTE']"
-15,Kalamay,"['COCONUT MILK', 'RICE FLOUR', 'SUGAR']"
-16,Brazo de Mercedes,"['EGGS', 'VANILLA', 'CONDENSED MILK', 'SUGAR', 'OR\nLIME', 'LEMON', 'CREAM OF TARTAR']"
-17,Giniling,"['BEEF', 'BELL PEPPER', 'OLIVE OIL', 'GARLIC', 'ONION', 'OLIVES', 'RAISINS', 'CAPERS', 'TOMATO', 'CUMIN', 'SUGAR', 'SALT']"
-18,Adobong pusit,"['SQUID', 'VINEGAR', 'SOY SAUCE', 'ONION', 'TOMATO', 'GARLIC', 'SALT', 'SUGAR', 'OIL']"
-19,Ube halaya,"['YAM', 'OR\nCONDENSED MILK', 'OR\nMILK', 'COCONUT MILK', 'SUGAR', 'VANILLA']"
-20,Pochero,"['OR\nBEEF', 'OR\nPORK', 'CHICKEN', 'TOMATO', 'ONION', 'GARLIC', 'FISH SAUCE', 'PEPPERCORNS', 'CHICKPEAS', 'LEEK', 'PLANTAIN', 'POTATOES', 'CABBAGE', 'BOK CHOY', 'GREEN BEANS']"
-21,Latik,"['COCONUT MILK', 'COCONUT CREAM', 'SUGAR']"
-22,Paksiw,"['BANGUS', 'VINEGAR', 'GINGER', 'GARLIC', 'ONION', 'SALT', 'PEPPERCORNS']"
-23,Maruya,"['BANANAS', 'EGGS', 'FLOUR', 'BAKING POWDER']"
-24,Cascaron,"['RICE FLOUR', 'COCONUT', 'COCONUT MILK', 'SUGAR']"
-25,Daing na bangus,"['BANGUS', 'VINEGAR', 'GARLIC', 'CAYENNE PEPPER', 'SALT']"
-26,Tortang talong,"['EGGPLANT', 'EGGS']"
-27,Sinigang na hipon,"['SHRIMPS', 'TAMARIND', 'TOMATO', 'ONION', 'WATER SPINACH', 'OKRA', 'EGGPLANT', 'TLAOLA SERRANO CHILI PEPPER', 'OR\nFISH SAUCE', 'BLACK PEPPER']"
-28,Kutsinta,"['RICE FLOUR', 'SUGAR', 'LYE WATER', 'ANNATTO POWDER']"
-29,Palitaw,"['RICE FLOUR', 'COCONUT', 'SUGAR']"
-30,Lumpiang Shanghai,"['OR\nPORK', 'BEEF', 'CARROT', 'ONION', 'SALT', 'BLACK PEPPER', 'SWEET AND SOUR SAUCE']"
-31,Espasol,"['RICE FLOUR', 'COCONUT', 'COCONUT MILK']"
-32,Morcon,"['OR\nPORK', 'BEEF', 'SAUSAGE', 'CARROT', 'PICKLED CUCUMBERS', 'EGGS']"
-33,Sapin-sapin,"['RICE FLOUR', 'COCONUT MILK', 'CONDENSED MILK', 'VANILLA', 'YAM', 'LATIK']"
-34,Bola-bola,"['OR\nBEEF', 'PORK', 'ONION', 'EGGS', 'SOY SAUCE', 'GARLIC', 'BLACK PEPPER', 'SALT', 'TOMATO SAUCE', 'SWEET AND SOUR SAUCE']"
-35,Utan,"['EGGPLANT', 'OKRA', 'GINGER', 'TOMATO', 'SCALLIONS', 'SPINACH', 'PUMPKIN', 'LONG BEANS', 'SALT']"
-36,Pancit lomi,"['NOODLES', 'OR\nCHICKEN', 'OR\nPORK', 'OFFAL', 'CABBAGE', 'CARROT', 'EGGS']"
-37,Buko Pie,"['COCONUT', 'CONDENSED MILK', 'CREAM', 'SUGAR']"
-38,Pancit malabon,"['NOODLES', 'PORK', 'SHRIMPS', 'FISH SAUCE', 'CABBAGE', 'CHICHARRÓN', 'EGGS', 'SALT', 'BLACK PEPPER']"
-39,Bopis,"['OFFAL', 'VINEGAR', 'FISH SAUCE', 'GARLIC', 'ONION', 'CARROT', 'BELL PEPPER']"
-40,Sinigang na baboy,"['PORK', 'TAMARIND', 'TOMATO', 'ONION', 'GARLIC', 'OKRA', 'RADISH', 'WATER SPINACH', 'TLAOLA SERRANO CHILI PEPPER']"
-41,Afritada,"['CHICKEN', 'TOMATO SAUCE', 'POTATOES', 'BELL PEPPER', 'CARROT']"
-42,Champorado,"['RICE', 'COCOA BEANS', 'SUGAR', 'CONDENSED MILK']"
-43,Bilo-bilo,"['RICE FLOUR', 'COCONUT MILK', 'SWEET POTATO', 'TAPIOCA', 'DURIAN', 'BANANAS']"
-44,Gulaman,"['GELATIN', 'VANILLA', 'CONDENSED MILK']"
-45,Lugaw,"['RICE', 'CHICKEN', 'FISH SAUCE', 'GINGER', 'GARLIC', 'SCALLIONS', 'EGGS']"
-46,Proben,"['OFFAL', 'CORNSTARCH']"
-47,Pancit bihon,"['OR\nPORK', 'CHICKEN', 'NOODLES', 'SOY SAUCE', 'GREEN BEANS', 'CARROT']"
-48,Kinilaw,"['TUNA', 'VINEGAR', 'ONION', 'GINGER', 'GARLIC', 'HOT PEPPERS']"
-49,Batchoy,"['NOODLES', 'STOCK', 'PORK', 'BONE MARROW', 'OFFAL', 'EGGS', 'CHICHARRÓN', 'ONION', 'SCALLIONS', 'GARLIC', 'SUGAR', 'SALT', 'BLACK PEPPER']"
-50,Menudo Filipino,"['PORK', 'OFFAL', 'HOT DOG', 'TOMATO SAUCE', 'POTATOES', 'CARROT', 'BELL PEPPER', 'RAISINS']"
-51,Bibingka,"['RICE FLOUR', 'EGGS', 'COCONUT MILK', 'BUTTER', 'CHEESE', 'COCONUT']"
-52,Kwek kwek,"['CORNSTARCH', 'QUAIL EGG', 'ANNATTO POWDER']"
-53,Atchara,"['PAPAYA', 'CARROT', 'ONION', 'DAIKON RADISH', 'BELL PEPPER', 'VINEGAR', 'SUGAR', 'GINGER', 'GARLIC', 'SALT', 'PEPPERCORNS']"
-54,Pancit palabok,"['NOODLES', 'SHRIMPS', 'FISH SAUCE', 'EGGS', 'CHICHARRÓN', 'SCALLIONS', 'BLACK PEPPER', 'GARLIC']"
-55,Arroz caldo,"['CHICKEN', 'RICE', 'GINGER', 'FISH SAUCE', 'ONION', 'GARLIC', 'SALT', 'BLACK PEPPER']"
-56,Tapsilog,"['TAPA (PHILIPPINES)', 'EGGS', 'RICE', 'GARLIC']"
-57,Bicol Express,"['PORK', 'COCONUT CREAM', 'SHRIMP PASTE', 'HOT PEPPERS', 'ONION', 'GARLIC', 'SALT', 'BLACK PEPPER']"
-58,Pinakbet,"['PORK', 'SHRIMP PASTE', 'PUMPKIN', 'SWEET POTATO', 'EGGPLANT', 'OKRA', 'GREEN BEANS', 'BITTER MELON', 'TOMATO', 'GARLIC', 'ONION', 'SALT', 'BLACK PEPPER']"
-59,Tinolang manok,"['CHICKEN', 'PAPAYA', 'TLAOLA SERRANO CHILI PEPPER', 'GINGER', 'GARLIC', 'FISH SAUCE']"
-60,Sans rival,"['CASHEWS', 'EGGS', 'SUGAR', 'VANILLA', 'BUTTER', 'RUM']"
-61,Mechado,"['OR\nBEEF', 'PORK', 'TOMATO SAUCE', 'SOY SAUCE', 'POTATOES', 'BELL PEPPER', 'CARROT', 'GARLIC', 'ONION', 'SALT', 'BLACK PEPPER']"
-62,Pares,"['BEEF', 'SOY SAUCE', 'STAR ANISE', 'GINGER', 'GARLIC', 'ONION', 'SUGAR', 'SALT', 'BLACK PEPPER']"
-63,Dinuguan,"['PORK', 'VINEGAR', 'FISH SAUCE', 'ONION', 'GINGER', 'GARLIC', 'SUGAR', 'TLAOLA SERRANO CHILI PEPPER']"
-64,Butsi,"['RICE FLOUR', 'MUNG BEAN', 'OR\nRED BEAN PASTE', 'COCONUT', 'SESAME SEEDS']"
-65,Pichi-pichi,"['CASSAVA', 'SUGAR', 'COCONUT', 'CHEESE']"
-66,Puto,"['FLOUR', 'MILK', 'EGGS', 'BAKING POWDER', 'CHEESE']"
-67,Inasal na manok,"['CHICKEN', 'VINEGAR', 'LEMONGRASS', 'GARLIC', 'GINGER']"
-68,Isaw,"['OR\nPORK', 'CHICKEN', 'SOY SAUCE', 'KETCHUP', 'GARLIC', 'VINEGAR', 'ONION', 'HOT PEPPERS']"
-69,Taho,"['TOFU', 'TAPIOCA', 'SUGAR']"
-70,Tinola,"['OR\nCHICKEN', 'SEAFOOD', 'FISH SAUCE', 'PAPAYA', 'GINGER', 'GARLIC', 'TLAOLA SERRANO CHILI PEPPER']"
-71,Lechon kawali,"['PORK', 'SALT', 'PEPPERCORNS']"
-72,Tocino,"['PORK', 'SUGAR', 'SALT', 'RICE WINE', 'SOY SAUCE', 'OR\nORANGE JUICE', 'PINEAPPLE JUICE']"
-73,Turon,"['PLANTAIN', 'DURIAN', 'SUGAR']"
-74,Bulalô,"['BEEF', 'BONE MARROW', 'FISH SAUCE', 'ONION', 'CORN', 'GREEN BEANS', 'PEPPERCORNS', 'BOK CHOY']"
-75,Pinangat,"['OR\nTUNA', 'OR\nSARDINES', 'PORK', 'COCONUT MILK', 'GINGER', 'TARO', 'LEMONGRASS', 'HOT PEPPERS']"
-76,Halo-Halo,"['ICE CREAM', 'LECHE FLAN', 'MILK', 'BANANAS', 'DURIAN', 'MUNG BEAN', 'COCONUT', 'SWEET POTATO', 'YAM', 'SUGAR']"
-77,Pancit canton,"['NOODLES', 'OR\nPORK', 'OR\nBEEF', 'SEAFOOD', 'SOY SAUCE', 'CARROT', 'ONION', 'CABBAGE', 'GREEN BEANS']"
-78,Tapa (Philippines),"['BEEF', 'LIME', 'SOY SAUCE', 'GARLIC', 'SUGAR']"
-79,Leche Flan,"['EGGS', 'MILK', 'CONDENSED MILK', 'SUGAR', 'VANILLA']"
-80,Silog,"['RICE', 'EGGS', 'GARLIC', 'OR\nTAPA (PHILIPPINES)', 'OR\nHOT DOG', 'OR\nTOCINO', 'OR\nBANGUS', 'OR\nSPAM', 'CHICKEN']"
-81,Crispy Pata,"['PORK', 'BAY LEAF', 'PEPPERCORNS', 'SALT']"
-82,Sinigang,"['OR\nTAMARIND', 'GUAVA', 'OR\nPORK', 'OR\nSEAFOOD', 'OR\nCHICKEN', 'BEEF', 'FISH SAUCE', 'WATER SPINACH', 'SILING MAHABA', 'ONION', 'TOMATO', 'BROCCOLI', 'GREEN BEANS', 'GINGER', 'GARLIC', 'OKRA', 'EGGPLANT', 'RADISH', 'CABBAGE', 'SALT']"
-83,Kaldereta,"['OR\nBEEF', 'GOAT', 'TOMATO SAUCE', 'POTATOES', 'CARROT', 'ONION', 'BAY LEAF', 'BELL PEPPER', 'GARLIC', 'BLACK PEPPER']"
-84,Torta,"['EGGS', 'BEEF', 'ONION', 'POTATOES', 'EGGPLANT', 'TOMATO']"
-85,Kare-kare,"['OR\nPORK', 'OR\nOXTAIL', 'OR\nCHICKEN', 'GOAT', 'PEANUT BUTTER', 'PEANUTS', 'LONG BEANS', 'EGGPLANT', 'BOK CHOY', 'GARLIC', 'ONION', 'SALT', 'BLACK PEPPER', 'SHRIMP PASTE']"
-86,Lumpia,['LUMPIANG SHANGHAI']
-87,Adobo,"['OR\nCHICKEN', 'OR\nPORK', 'SQUID', 'VINEGAR', 'SOY SAUCE', 'BAY LEAF', 'GARLIC', 'OIL', 'SALT', 'BLACK PEPPER', 'SUGAR']"
-88,Sisig,"['PORK', 'OFFAL', 'VINEGAR', 'ONION', 'HOT PEPPERS', 'SOY SAUCE', 'BLACK PEPPER', 'SALT', 'EGGS']"
-89,Lechon,"['PORK', 'ONION', 'GARLIC', 'LEMONGRASS', 'BAY LEAF', 'SALT', 'BLACK PEPPER']"
-90,Pancit,"['PANCIT CANTON', 'PANCIT BIHON', 'PANCIT PALABOK', 'PANCIT MALABON', 'PANCIT LOMI', 'PANCIT LUCBAN', 'PANCIT BATIL PATONG', 'PANCIT SOTANGHON']"
+,ulam_titles,ingredients,ulam_descriptions
+0,Adobong manok,"['CHICKEN', 'ONION', 'GARLIC', 'SOY SAUCE', 'WHITE WINE VINEGAR', 'BAY LEAF', 'BROWN SUGAR', 'PEPPERCORNS', 'OIL']","Adobong manok is a traditional stew originating from the Philippines. This type of Filipino adobo is made with a combination of chicken, garlic, onions, bay leaves, peppercorns, oil, brown sugar, soy sauce, and white vinegar. The chicken is cut into pieces and marinated in a mixture of all the mentioned ingredients (except oil).
+
+It is then cooked in oil over medium heat until browned. The rest of the marinade is mixed with water and the mixture is poured over the browned chicken. The dish is simmered over high heat until the chicken is fully cooked, and adobong manok is then served with white rice on the side."
+1,Talunan,"['CHICKEN', 'VINEGAR', 'GINGER', 'GARLIC', 'FISH SAUCE', 'BLACK PEPPER', 'SALT', 'BAY LEAF']","Talunan is a unique Filipino dish that is usually made with various cuts of chicken simmered in vinegar-based broth alongside garlic, ginger, and a variety of spices. The name of the dish originates from the Filipino term which means defeated, and the dish was initially prepared with roosters involved in one of the favorite Filipino pastimes – the infamous cockfights.
+
+The cock which would lose or die in the fight was employed in the preparation of the dish. Nowadays, talunan is not exclusively related to cockfights, and it is prepared in many Filipino households."
+2,Kilawin,"['OR\nPORK', 'SEAFOOD', 'VINEGAR', 'CITRUS FRUIT', 'ONION', 'GINGER', 'SHALLOTS', 'CARROT', 'CORIANDER', 'BELL PEPPER', 'SALT']","Kilawin is a term which refers to a broad group of Filipino dishes which are similar to the Italian crudo or the Peruvian ceviche. It can employ meat or seafood which is cut or sliced, then blended with vinegar, citrus juices, and a variety of spices and fresh herbs.
+
+Even though the ingredients are sometimes pre-cooked, they are most commonly used raw, allowing the vinegar to act as a cooking agent. Kilawin is typically served as an appetizer or a side dish during traditional Filipino beer-drinking sessions."
+3,Filipino Spaghetti,"['NOODLES', 'BEEF', 'HOT DOG', 'BANANA KETCHUP', 'SUGAR']","Filipino spaghetti is a dish that has slowly become a national dish in the Philippines, showing up on menus across the country at least once a week. Unlike the Italian version, Filipino spaghetti are sweet, combining the noodles with ground meat, hot dogs, banana ketchup, and sugar.
+
+It is believed that the dish was invented by Filipino mothers who noticed that their children love sugar, so they put a spin on the classic spaghetti dishes. Today, this inexpensive meal is known as the one that unites families, and is consumed by both poor and rich people."
+4,Tokneneng,"['EGGS', 'ANNATTO POWDER', 'FLOUR', 'SALT', 'BLACK PEPPER']","Tokneneng is a traditional Filipino dish that's sold as a street food snack. It consists of hard-boiled eggs that are dipped in an orange-colored batter, then deep-fried. The dish is traditionally made with duck eggs, but chicken eggs can also be used.
+
+The batter is made with a combination of flour, water, salt, pepper, and annatto powder (or red and yellow food coloring). Once deep-fried, these eggs are traditionally served with a spiced vinegar-based dip on the side. There's also a variation on the dish called kwek kwek, made with quail eggs."
+5,Bukayo,"['COCONUT', 'SUGAR']","The sweet bukayo is a traditional Filipino delicacy made with strips of young coconut flesh that is cooked in coconut water alongside brown sugar and various seasonings. It is simmered until the texture becomes thick, and it is then served shaped in round or flat shapes.
+
+Either crispy or chewy in consistency, it can be enjoyed on its own or as a complement to other desserts."
+6,Papaitan,"['OFFAL', 'ONION', 'GINGER', 'GARLIC', 'BLACK PEPPER', 'SALT', 'TLAOLA SERRANO CHILI PEPPER']","The rich and flavorful papaitan is a popular Filipino soup which consists of goat or cow innards such as heart, tripe, or liver, simmered alongside garlic, onions, and various spices. The most important addition to the dish is bile - a bitter liquid extracted from animal livers, giving the soup its distinctive sour flavor and a light yellow color.
+
+This popular Ilocano dish is always served hot and is usually garnished with sliced green onions and chili peppers."
+7,Lauya,"['OR\nCHICKEN', 'OR\nPORK', 'BEEF', 'CABBAGE', 'CARROT', 'POTATOES', 'GARLIC', 'PEPPERCORNS', 'OR\nFISH SAUCE', 'SALT', 'TLAOLA SERRANO CHILI PEPPER']","Lauya is a comforting Filipino dish which may consist of chicken, pork, or beef that is slowly stewed in a flavorful broth alongside various spices. It appears in many regional varieties and often includes different vegetables such as cabbage, carrots, and potatoes.
+
+The meat is usually left on the bone and it is occasionally shortly smoked before being cooked. Lauya is the perfect example of traditional Filipino comfort food, always served hot and typically enjoyed with plain steamed rice on the side."
+8,Maja blanca,"['COCONUT MILK', 'CORNSTARCH', 'CORN', 'CHEESE', 'LATIK']","Light and creamy maja blanca is a popular Filipino dessert which consists of coconut milk thickened with cornstarch and blended with whole corn kernels. Many modern varieties of this classic incorporate condensed or plain milk, cream, or diced cheese and are traditionally garnished with toasted coconut flakes or coconut latik.
+
+As the name suggests, this refreshing delicacy is the authentic Filipino variation of the popular manjar blanco, the creamy milk-based dessert found in numerous Spanish speaking countries. In the Philippines, maja blanca is a staple holiday dessert served on many special occasions."
+9,Inihaw na liempo,"['PORK', 'SOY SAUCE', 'LIME', 'SALT', 'BLACK PEPPER', 'GARLIC']","Inihaw na liempo is a traditional Filipino dish consisting of grilled pork belly. Although there are many variations on the dish, it's usually preapred with pork belly that's marinated in soy sauce, lemon juice, salt, pepper, and garlic. When the pork belly is placed on the grill, it's often basted with a combination of leftover marinade, banana ketchup, and oil.
+
+Once done, the dish is usually served with white rice, spiced vinegar, or toyomansi dipping sauce (soy sauce, vinegar, and chopped onions). Inihaw na liempo can be served as an appetizer or main dish."
+10,Bistek Tagalog,"['BEEF', 'OR\nLIME', 'LEMON', 'ONION', 'GARLIC', 'SOY SAUCE', 'BLACK PEPPER']","Bistek Tagalog is a traditional meat dish originating from the Philippines. It consists of thinly sliced beef that's marinated and braised in a combination of citrus juice (usually from lemon, lime, or calamansi fruit), onions, garlic, soy sauce, and pepper.
+
+It is believed that the dish was derived after the Spanish bistec encebollado. When properly prepared, the flavors should be savory, salty, and tangy. It's important to use only the freshest beef and the most tender cuts such as top round and sirloin. "
+11,Nilagang baka,"['BEEF', 'STOCK', 'BOK CHOY', 'PLANTAIN', 'CABBAGE', 'POTATOES', 'STAR ANISE', 'SALT', 'BLACK PEPPER', 'FISH SAUCE']","Nilagang baka is a traditional soup originating from the Philippines. Although there are many variations, it's usually prepared with a combination of onions, beef broth, cubed beef, baby bok choy, cabbage, plantains, potatoes, celery, star anise, salt, and pepper.
+
+The soup is simmered until the beef becomes tender and the vegetables are fully cooked. Nilagang baka is especially popular on cold or rainy days, and it's always served hot. Traditionally, it's accompanied by steamed rice and fish sauce (patis). Sometimes, an extra helping of the broth is served in a separate bowl on the side."
+12,Pinikpikan,"['CHICKEN', 'PORK', 'CABBAGE', 'GREEN BEANS', 'SALT']","Pinikpikan is a controversial dish originating from the Cordillera mountainous region in the Philippines. The soup consists of chicken and etag, which is cured and smoked meat that has been kept underground in earthen jars. What makes pinikpikan controversial is the way that the chicken is slaughtered – it is gently beaten to death with a stick in a ritual performed by local tribes.
+
+The chicken is beaten to keep the blood inside, and if properly done, it will not be bloody when cut. No bones should be broken during the beating and slicing process. However, the preparation method is in violation of the Philippine Animal Welfare Act of 1998. "
+13,Banana Cue,"['BANANAS', 'SUGAR']","One of the most popular sweet snacks in the Philipines is banana cue, made by deep-frying saba bananas which are generously coated in a thick layer of caramelized sugar. Because they are usually enjoyed as street food, the sweet bananas are often served on bamboo skewers.
+
+The unusual name stems from the term barbecue since caramelized bananas resemble pieces of golden-brown grilled meat. This Filipino classic is usually sold at street stands and enjoyed as a satisfying dessert or a quick afternoon snack."
+14,Binagoongan,"['OR\nPORK', 'OR\nCHICKEN', 'BEEF', 'SHRIMP PASTE']","Binagoongan is a traditional dish and a technique of preparing food originating from the Philippines. It consists of protein (usually pork belly) that's cooked with shrimp paste. Vegetables such as water spinach or meat such as beef or chicken can be used instead of pork, which is sautéed or braised with shrimp paste and additional ingredients such as bay leaves, peppercorns, garlic, chili peppers, eggplant, or pineapple chunks.
+
+Once prepared, binagoongan should be very salty and it's usually served with steamed white rice. In order to subdue the saltiness, vinegar and sugar are often added to binagoongan."
+15,Kalamay,"['COCONUT MILK', 'RICE FLOUR', 'SUGAR']","Sweet and sticky kalamay is a popular Filipino delicacy which consists of coconut milk, glutinous rice, and brown sugar. It is produced in a time-consuming process in which the rice and coconut milk are boiled, ground into a paste, mixed with brown sugar, and then cooked until the desired consistency is achieved.
+
+There are numerous regional varieties of kalamay in the Philippines which often differ in the additional ingredients and serving styles. Most varieties are eaten on their own as a sweet snack or a nutritious breakfast, but they are also commonly used as a sweetener in various desserts and beverages."
+16,Brazo de Mercedes,"['EGGS', 'VANILLA', 'CONDENSED MILK', 'SUGAR', 'OR\nLIME', 'LEMON', 'CREAM OF TARTAR']","Brazo de Mercedes is a traditional rolled cake originating from the Philippines and dating back to Spanish colonial times. The dessert consists of a sheet of fluffy meringue that's filled with custard. The custard ingredients usually include egg yolks, vanilla, condensed milk, and lime or lemon zest, while the meringue is made with egg whites, cream of tartar, and sugar.
+
+The meringue is baked, the custard is spread over the meringue, and the cake is then rolled with the filling rolled inward. Brazo de Mercedes is often served on large serving platters and then sliced into smaller pieces."
+17,Giniling,"['BEEF', 'BELL PEPPER', 'OLIVE OIL', 'GARLIC', 'ONION', 'OLIVES', 'RAISINS', 'CAPERS', 'TOMATO', 'CUMIN', 'SUGAR', 'SALT']","Picadillo is a spicy dish consisting of ground meat, tomatoes, and onions in its basic version. It is popular throughout Latin America, Spain, and the Philippines, where it is known as giniling. The dish is usually served with a side of rice or tortillas, although it is used just as often as a filling for numerous wraps and tacos.
+
+In Cuba, the cooks like to add raisins for sweetness and olives for salt, in the Philippines, potatoes are often added to the dish, while the Mexican version incorporates additional lime juice, honey, or chili peppers. The name of the dish is derived from the Spanish word picar, meaning to chop or mince, referring to picadillo's key ingredient, ground meat."
+18,Adobong pusit,"['SQUID', 'VINEGAR', 'SOY SAUCE', 'ONION', 'TOMATO', 'GARLIC', 'SALT', 'SUGAR', 'OIL']","Adobong pusit is a traditional Filipino dish that's a part of the famous adobo group of dishes. The dish is prepared with a combination of fresh squid and its ink, soy sauce, vinegar, garlic, salt, sugar, oil, onions, and tomatoes. The squid is first boiled in a mixture of soy sauce and vinegar, and it's then sautéed in a combination of garlic, onions, and tomatoes.
+
+It's important not to overcook the squid as its texture will become rubbery. This simple squid stew with robust flavors is sometimes accompanied by vegetable-based dishes on the side."
+19,Ube halaya,"['YAM', 'OR\nCONDENSED MILK', 'OR\nMILK', 'COCONUT MILK', 'SUGAR', 'VANILLA']","Ube halaya is a famous Filipino dessert made with purple yam. It is easily prepared by cooking mashed purple yams in plain milk, coconut milk, or condensed milk alongside sugar and vanilla essence. When set, it results in a slightly sweet treat that has a sticky texture and a unique purple color.
+
+Even though it can be eaten plain, ube halaya is often incorporated into other Filipino desserts or eaten as a creamy spread. It can be served well-chilled or lukewarm and is usually sprinkled with toasted coconut flakes or latik - the crispy Filipino coconut curds."
+20,Pochero,"['OR\nBEEF', 'OR\nPORK', 'CHICKEN', 'TOMATO', 'ONION', 'GARLIC', 'FISH SAUCE', 'PEPPERCORNS', 'CHICKPEAS', 'LEEK', 'PLANTAIN', 'POTATOES', 'CABBAGE', 'BOK CHOY', 'GREEN BEANS']","Pochero is a beloved Filipino stew that was created as a variation on the Spanish puchero. It's made with a combination of meat (beef, but it can also be made with chicken or pork), tomatoes, onions, garlic, patis fish sauce, peppercorns, chickpeas, leeks, plantains, potatoes, cabbage, green beans, and bok choy.
+
+The stew is simmered until the vegetables and the meat become tender. Pochero is especially popular on cold or rainy days, when it's customarily served piping hot with rice on the side."
+21,Latik,"['COCONUT MILK', 'COCONUT CREAM', 'SUGAR']","Depending on the region, the Filipino term latik can refer to two separate dishes: either coconut curds produced by heating coconut milk to separate the oil, or a thick and sweet coconut syrup made by reducing a combination of coconut cream and sugar.
+
+The golden brown curds are usually used as a crunchy topping on creamy desserts, while the syrup can be utilized as a condiment or even as a sweetener in hot or cold beverages."
+22,Paksiw,"['BANGUS', 'VINEGAR', 'GINGER', 'GARLIC', 'ONION', 'SALT', 'PEPPERCORNS']","Paksiw is a Filipino cooking technique that refers to various dishes that are simmered in vinegar. The method is used in the preparation of fish or meat-based dishes which can also incorporate additional ingredients such as garlic, vegetables, seasonings, and various spices.
+
+The most popular dishes that fall into this category include pork-based paksiw na baboy and paksiw na isda that employs fish as the main ingredient. Paksiw dishes are usually served with rice on the side."
+23,Maruya,"['BANANAS', 'EGGS', 'FLOUR', 'BAKING POWDER']","Maruya are the famous Filipino banana fritters which consist of sliced or mashed bananas that are dusted with flour, battered, then fried until crispy. The fritters are usually made with Filipino saba bananas and can come in various forms which are often served lightly dusted with sugar.
+
+They are most commonly eaten as a light snack, sweet breakfast, or a filling afternoon dessert. These fritters are a favorite among children and can often be found at street stalls throughout the country."
+24,Cascaron,"['RICE FLOUR', 'COCONUT', 'COCONUT MILK', 'SUGAR']","Round, sweet, and chewy cascaron is a deep-fried Filipino delicacy usually served doused in sugary syrups. Often referred to as bitsu bitsu, this traditional treat is made with sweet glutinous rice flour, shredded coconut, and coconut milk.
+
+The dough is shaped into small round balls and deep-fried until golden and crispy on the outside. Although they can be served plain, these luscious balls are often smothered in various sweet syrups, such as the simple sticky caramel sauce or the traditional Filipino latik, the creamy glaze made with coconut milk and sugar. "
+25,Daing na bangus,"['BANGUS', 'VINEGAR', 'GARLIC', 'CAYENNE PEPPER', 'SALT']","This traditional Filipino dish consists of butterflied, marinated milkfish that is pan-fried until crispy. The marinade usually combines vinegar, garlic, and various spices, and the fish is prepared with the skin intact, which adds an additional crunch to its texture.
+
+Daing na bangus can be enjoyed as a filling lunch or breakfast, and it is usually accompanied by garlic-fried rice, fried eggs, pickled vegetables, and spicy vinegar."
+26,Tortang talong,"['EGGPLANT', 'EGGS']","Tortang talong is a simple Filipino dish made with a combination of roasted eggplants and lightly beaten eggs. Whole eggplants are dipped into the egg mixture and are then shortly pan-fried until the entire dish starts to resemble a crispy omelet.
+
+This versatile delicacy is easily adapted with additional ingredients such as ground meat and vegetables, and it is traditionally served accompanied by steamed rice and tomato or banana ketchup. Inexpensive and quickly prepared, tortang talong can be enjoyed at any time of day as a hearty breakfast, lunch, or dinner."
+27,Sinigang na hipon,"['SHRIMPS', 'TAMARIND', 'TOMATO', 'ONION', 'WATER SPINACH', 'OKRA', 'EGGPLANT', 'TLAOLA SERRANO CHILI PEPPER', 'OR\nFISH SAUCE', 'BLACK PEPPER']","Sinigang na hipon is a Filipino shrimp soup characterized by its sour and strongly savory flavor. In addition to shrimp, this dish contains a great variety of vegetables, including onions, tomatoes, string beans, banana peppers, water spinach, taro, radishes, and ladies’ fingers, with ginger and fish sauce being added for extra flavor.
+
+Sinigang’s signature sour flavor comes from tamarind, but other natural souring agents, such as green mango, guava, santol, calamansi, bilimbi, or pineapple can also be used. Sinigang na hipon is very popular in the Philippines, where it is considered a homemade specialty. "
+28,Kutsinta,"['RICE FLOUR', 'SUGAR', 'LYE WATER', 'ANNATTO POWDER']","Kutsinta is a sweet Filipino delicacy made with glutinous rice flour, brown sugar, and lye water. The mixture is steamed in small round molds and it is traditionally served topped with coconut flakes. These chewy cakes are usually infused with food coloring or annatto seeds in order to achieve their typical dark brown color.
+
+These sweet treats are usually enjoyed as a satisfying dessert or a quick afternoon snack."
+29,Palitaw,"['RICE FLOUR', 'COCONUT', 'SUGAR']","Palitaw is a popular Filipino boiled rice cake. These rice cakes were traditionally prepared with pounded rice, but today there are mainly made with a combination of glutinous rice flour and water. Characterized by their round and flat shape, they are boiled in water, then rolled in grated coconut and sweetened sesame seeds.
+
+The name is derived from the Filipino word litaw, which means to float, referring to the preparation method in which the cakes are boiled until they start floating on the surface. Just like other rice cakes in the Philippines, palitaw is enjoyed as a dessert, but it also makes for a satisfying afternoon treat."
+30,Lumpiang Shanghai,"['OR\nPORK', 'BEEF', 'CARROT', 'ONION', 'SALT', 'BLACK PEPPER', 'SWEET AND SOUR SAUCE']","Lumpiang Shanghai is the most popular variety of lumpia, the crispy deep-fried Filipino snack that evolved from Chinese spring rolls. Even though lumpia appears in numerous variations, the Shanghai version is characterized by a savory filling which combines ground pork or beef with carrots, onions, various seasonings, and (occasionally) shrimps.
+
+Lumpiang Shanghai is usually sold at numerous street stalls throughout the country, but it is also a staple dish served on special and festive occasions. This delicious and crispy snack is usually served accompanied by sweet and sour dipping sauce."
+31,Espasol,"['RICE FLOUR', 'COCONUT', 'COCONUT MILK']","Espasol is a soft, chewy Filipino rice cake prepared with a combination of toasted glutinous rice flour and grated green coconut that is slowly cooked in coconut milk. The mixture turns into soft, pliable dough that is shaped into long cylinders or triangles before each cake is coated in rice flour.
+
+Espasol is associated with the Laguna region, where it is a hailed as a local specialty that is usually bought at various restaurants, stores, and street stalls."
+32,Morcon,"['OR\nPORK', 'BEEF', 'SAUSAGE', 'CARROT', 'PICKLED CUCUMBERS', 'EGGS']","Morcon are delicious Filipino stuffed meat rolls. They usually consist of thin slices of pork or beef wrapped around neatly arranged sausages, carrots, pickles, and hard-boiled eggs. The rolls are shortly braised, then usually served sliced alongside thick sauces based on tomatoes or soy.
+
+Morcon is a dish prepared on various special occasions and is commonly enjoyed on New Year’s Day, since many Filipinos believe that eating round-shaped food will ensure prosperity in the following year."
+33,Sapin-sapin,"['RICE FLOUR', 'COCONUT MILK', 'CONDENSED MILK', 'VANILLA', 'YAM', 'LATIK']","The colorful sapin-sapin is a unique Filipino rice cake. It is made with a simple batter of rice and coconut milk, and usually consists of three separate layers which are tinted and flavored with different colors and aromas. The most popular combination consists of a yellow bottom layer infused with jackfruit, the plain white middle layer, and the vibrant purple top blended with sweet yams.
+
+After it is steamed and before serving, the cake is usually garnished with toasted coconut flakes or latik coconut curds."
+34,Bola-bola,"['OR\nBEEF', 'PORK', 'ONION', 'EGGS', 'SOY SAUCE', 'GARLIC', 'BLACK PEPPER', 'SALT', 'TOMATO SAUCE', 'SWEET AND SOUR SAUCE']","The term bola-bola refers to the versatile Filipino meatballs. Usually made with ground beef or pork, they incorporate garlic, onions, eggs, soy sauce, and a variety of spices. These meatballs are used in tasty Filipino soups and are commonly served plain and enjoyed as a quick snack or a nutritious appetizer.
+
+As the main dish, they are usually accompanied by sweet and sour sauce, tomato sauce, or curry sauce."
+35,Utan,"['EGGPLANT', 'OKRA', 'GINGER', 'TOMATO', 'SCALLIONS', 'SPINACH', 'PUMPKIN', 'LONG BEANS', 'SALT']","Easy to prepare and packed with healthy vegetables, utan is a famous Filipino soup which originated in Visayan Islands. This clear vegetable soup was originally a poor man’s dish, which included any vegetables that were at hand. Nowadays, it can also include a wide variety of root vegetables and leafy greens which are merely cooked in salted water.
+
+Occasionally, this nutritious soup can be enriched with chunks of meat or pieces of fried fish. Even though it originated as a frugal dish, today it is regarded as an extremely healthy soup that is typically prepared in many Filipino households."
+36,Pancit lomi,"['NOODLES', 'OR\nCHICKEN', 'OR\nPORK', 'OFFAL', 'CABBAGE', 'CARROT', 'EGGS']","Pancit lomi is a hearty Filipino soup consisting of fresh egg noodles served in a rich, flavorful broth. Many regional varieties are thickened with flour or eggs and incorporate pork or chicken, sliced pork liver, and a variety of vegetables. The most famous version of pancit lomi originates from Batangas and often employs sliced kikiam, ham, or meatballs.
+
+This Chinese-influenced dish is always served hot and it is usually sold by numerous street vendors throughout the Philippines."
+37,Buko Pie,"['COCONUT', 'CONDENSED MILK', 'CREAM', 'SUGAR']","Buko pie is a traditional Filipino dessert which consists of a flaky pie crust combined with creamy coconut filling. It is prepared with buko, the young coconut flesh which is cooked alongside plain or condensed milk, cream, and sugar until it transforms into a thick and creamy custard.
+
+According to popular belief, it was invented by Soledad Pahud, a native Filipino who spent some time working in the United States. After she had returned, she wanted to adapt the traditional American apple pie with locally available ingredients. Together with her family, she invented buko pie, a dessert which soon became a favorite throughout the country. "
+38,Pancit malabon,"['NOODLES', 'PORK', 'SHRIMPS', 'FISH SAUCE', 'CABBAGE', 'CHICHARRÓN', 'EGGS', 'SALT', 'BLACK PEPPER']","Pancit Malabon belongs to a broad group of traditional Filipino stir-fried noodle dishes. It is prepared with thick rice noodles doused in a flavorful shrimp-infused sauce and usually incorporates various seafood ingredients such as shrimps, squids, or mussels.
+
+The dish is often served topped with hard-boiled eggs, pork cracklings, sliced cabbage, and fish flakes. As the name suggests, it stems from the coastal region of Malabon, famous for its abundance of fresh seafood ingredients. Like other pancit varieties, this local favorite is also traditionally served on special occasions."
+39,Bopis,"['OFFAL', 'VINEGAR', 'FISH SAUCE', 'GARLIC', 'ONION', 'CARROT', 'BELL PEPPER']","Bopis is a traditional Filipino dish which usually consists of animal’s (usually beef or pork) heart and lungs that are stewed alongside garlic, onions, and a variety of vegetables and spices. Eaten throughout the country, the dish appears in numerous version which may differ in the choice of ingredients, textures, and levels of spiciness.
+
+It is traditionally eaten as an appetizer or a snack accompanied by alcoholic beverages, but it also makes a satisfying main meal with steamed rice served on the side. The variety hailing from Bicol is usually called kandingga."
+40,Sinigang na baboy,"['PORK', 'TAMARIND', 'TOMATO', 'ONION', 'GARLIC', 'OKRA', 'RADISH', 'WATER SPINACH', 'TLAOLA SERRANO CHILI PEPPER']","This variety of sinigang - Filipino savory and sour soup - consists of various pork cuts that are simmered along tamarind fruit. Tomatoes, onions, garlic, okra, white radish, water spinach and green long peppers are also commonly used for this soup.
+
+There is also a similar dish in Malaysian cuisine called siniggang. A version of the pork sinigang is sinigang na miso, which uses the Japanese seasoning made from fermented rice and barley or soybeans. Nowadays, sinigang mix is available in supermarkets, but enjoying the dish made from scratch represents the full experience."
+41,Afritada,"['CHICKEN', 'TOMATO SAUCE', 'POTATOES', 'BELL PEPPER', 'CARROT']","Afritada is one of many traditional Filipino stews which use a tangy tomato sauce as the key ingredient. Since it is an incredibly popular dish, there may be variations in recipes, but it is usually prepared with diced chicken or pork stewed in tomato sauce alongside potatoes, bell peppers, and carrots.
+
+This flavorful Filipino dish is usually accompanied by plain steamed rice, then enjoyed as a satisfying main course."
+42,Champorado,"['RICE', 'COCOA BEANS', 'SUGAR', 'CONDENSED MILK']","Champorado is a thick Filipino rice pudding. Originally prepared with chocolate, nowadays it is usually made with cooked glutinous rice blended with sugar and cocoa powder. The origins of the dish derive from a Mexican chocolate-based drink known as champurrado, which was introduced during the colonial period.
+
+Usually enjoyed as a hearty breakfast or a sweet afternoon snack, Filipino champorado can be served hot or cold, drizzled with condensed milk, or accompanied by salted dry fish."
+43,Bilo-bilo,"['RICE FLOUR', 'COCONUT MILK', 'SWEET POTATO', 'TAPIOCA', 'DURIAN', 'BANANAS']","The sweet bilo-bilo is a popular Filipino treat made with chewy rice balls cooked in a creamy coconut milk blend. It can also incorporate bananas, tapioca pearls, sweet potatoes, or sliced jackfruit. Whether served warm or cold, bilo-bilo is usually enjoyed as a satisfying afternoon dessert or a sweet snack.
+
+Since these round rice balls symbolize prosperity and togetherness, this refreshing treat is also a staple dessert served on special occasions such as weddings or New Year."
+44,Gulaman,"['GELATIN', 'VANILLA', 'CONDENSED MILK']","Gulaman is the Filipino term for agar-agar or kanten, a gum extracted from algae, but the name also refers to a broad category of Filipino dishes which are made with the same ingredient. Sharing similar characteristics with gelatin, gulaman is usually used to create various jelly-like desserts, puddings, and thick syrups.
+
+Gulaman desserts are a staple in traditional Filipino cuisine and are often based on cream, milk, and various fruits. They may appear in numerous flavor combinations and forms. Usually served chilled, they are a perfect refreshing treat enjoyed in the hot and humid Filipino climate."
+45,Lugaw,"['RICE', 'CHICKEN', 'FISH SAUCE', 'GINGER', 'GARLIC', 'SCALLIONS', 'EGGS']","Lugaw is a Filipino rice porridge that is traditionally thought of as soft food for sick people, due to the fact that it doesn't require much chewing. Warm, filling, and mushy, the dish acts as an ideal base for any type of meat and seasonings, just like a congee.
+
+Lugaw is usually consumed for breakfast or as a snack. Many cooks like to add chicken, lemon, and ginger in order to improve the flavors of the dish. After that, it can be flavored with typical Filipino ingredients: scallions, garlic chips, sliced hard-boiled eggs, calamansi, or fish sauce. "
+46,Proben,"['OFFAL', 'CORNSTARCH']","Proben (occasionally referred to as proven) is a satisfying Filipino snack, and one of the most popular street food items in the country. It is prepared with an unusual chicken organ named proventriculus, a component that is in many ways similar to chicken gizzard.
+
+Coated in flour or cornstarch, the tiny proben pieces are shortly deep-fried until the exterior becomes golden brown and crispy. They can be fried individually and served in plastic bags, or skewered and fried on bamboo sticks. Cheap, fast, and nutritious, proben has come to represent one of the most common street food varieties in the Philippines, which is especially favored among the young students. "
+47,Pancit bihon,"['OR\nPORK', 'CHICKEN', 'NOODLES', 'SOY SAUCE', 'GREEN BEANS', 'CARROT']","Pancit bihon is a famous Filipino stir-fry consisting of rice noodles combined with sliced pork or chicken and various vegetables. The dish is infused with soy sauce and it is usually lightly seasoned with lemon juice. Just like other pancit varieties, this version is often found at numerous street stands throughout the country and is a staple dish served on special and festive occasions."
+48,Kinilaw,"['TUNA', 'VINEGAR', 'ONION', 'GINGER', 'GARLIC', 'HOT PEPPERS']","Kinilaw is a Filipino appetizer made with raw, cubed fish in a dressing based on vinegar. The appetizer is typically garnished with onions, ginger, chili peppers, and garlic. Fish should be washed in vinegar, not soaked in it, turning the pink flesh into white and slightly opaque in the process.
+
+Although kinilaw is usually consumed as an appetizer before a big meal, it can also be eaten as finger food, when it’s traditionally consumed with alcoholic beverages on the side."
+49,Batchoy,"['NOODLES', 'STOCK', 'PORK', 'BONE MARROW', 'OFFAL', 'EGGS', 'CHICHARRÓN', 'ONION', 'SCALLIONS', 'GARLIC', 'SUGAR', 'SALT', 'BLACK PEPPER']","The hearty batchoy is a popular Filipino soup consisting of pork offal, chicken or beef stock, and fresh round egg noodles. Generously seasoned with shrimp paste and (occasionally) soy sauce, the soup is usually topped with pork cracklings, fried garlic, and a raw egg.
+
+Although there are numerous stories about the origin of the dish, there is no doubt that it was created in Iloilo, more specifically in the district of La Paz, from where it spread to other parts of the country to become one of the most famous Filipino soup dishes."
+50,Menudo Filipino,"['PORK', 'OFFAL', 'HOT DOG', 'TOMATO SAUCE', 'POTATOES', 'CARROT', 'BELL PEPPER', 'RAISINS']","This comforting Filipino stew usually combines diced marinated pork, carrots, potatoes, and pork's liver with a creamy tomato sauce. Since it is one of the national Filipino dishes, numerous regional varieties often employ raisins, bell peppers, garbanzo beans, and sausages.
+
+The name menudo probably stems from menudencias, meaning offal, which might suggest that the dish used to include other innards, though pork liver is the most common option nowadays. It can also refer to small or tiny, possibly referring to the size of the ingredients. "
+51,Bibingka,"['RICE FLOUR', 'EGGS', 'COCONUT MILK', 'BUTTER', 'CHEESE', 'COCONUT']","In its simplest form, bibingka is a simple Filipino cake that consists of rice flour and water. It was initially prepared in clay pots that were lined with banana leaves, which would impart a distinctive, smoky flavor to the dish. Bibinka is believed to have appeared under the foreign culinary influence, and the first written reference describing a similar cake dates back to 1751.
+
+Through history, bibinka was adapted with additional ingredients, and nowadays it is typically prepared with milk, eggs, coconut milk, sugar, and butter, while modern variations may include anything from grated cheese, salted duck eggs or grated coconut, and a variety of different sweet and savory toppings. "
+52,Kwek kwek,"['CORNSTARCH', 'QUAIL EGG', 'ANNATTO POWDER']","Deep-fried kwek kwek is a type of tokneneng, the omnipresent Filippino street food. While tokneneng is made with boiled chicken or duck eggs, kwek kwek is the smaller sized variety, which usually employs tiny quail eggs. Both types are distinguished by the deep orange color, provided by an unusual batter in which eggs are coated before frying.
+
+The thick batter is made with flour, cornstarch, and water, with the addition of annatto powder, a unique ingredient which gives the dish its remarkable orange color. Hard-boiled quail eggs are thoroughly coated in batter, and fried until crispy. The essential condiment to kwek kwek is a spicy and sour sauce. "
+53,Atchara,"['PAPAYA', 'CARROT', 'ONION', 'DAIKON RADISH', 'BELL PEPPER', 'VINEGAR', 'SUGAR', 'GINGER', 'GARLIC', 'SALT', 'PEPPERCORNS']","Atchara is the famous Filipino green papaya pickle usually enjoyed as a condiment alongside authentic Filipino dishes. Next to long strips of unripe papaya, it can employ a variety of other vegetables such as carrots, onions, daikon radish, and bell peppers or chili peppers.
+
+It may also include pineapple chunks or sweet raisins. The vegetables are occasionally grated, but more commonly julienned, which gives atchara an unusual, crispy texture. The heated marinade, which combines vinegar, sugar, ginger, garlic, salt, and peppercorns, is poured over the vegetables, and the relish is pickled until all the flavors develop. "
+54,Pancit palabok,"['NOODLES', 'SHRIMPS', 'FISH SAUCE', 'EGGS', 'CHICHARRÓN', 'SCALLIONS', 'BLACK PEPPER', 'GARLIC']","Pancit palabok is a traditional Filipino dish consisting of thin rice noodles doused in a creamy shrimp-infused sauce and complemented with various toppings such as hard-boiled eggs, pork cracklings, shrimps, pork, fish flakes, and scallions. This classic is one of the most famous varieties of the traditional pancit dishes and it is considered to be an authentic Filipino invention, unlike other Chinese-influenced versions.
+
+Even though it is commonly prepared at many Filipino households, this national favorite is typically prepared for special and festive occasions."
+55,Arroz caldo,"['CHICKEN', 'RICE', 'GINGER', 'FISH SAUCE', 'ONION', 'GARLIC', 'SALT', 'BLACK PEPPER']","Arroz caldo is the Filipino variety of congee, a thick rice porridge that is ubiquitous in many Asian countries. It is also one of many congee varieties found in the Philippines. Distinguished by the addition of chicken, arroz caldo is usually cooked in a ginger-infused broth and served with various accompaniments and seasonings.
+
+Although congee is originally Chinese, this particular variety is believed to have been developed and adapted to suit the tastes of the large Spanish community that was present in the country during colonial times. This comforting rice dish is usually enjoyed as a filling breakfast or a satisfying midday meal."
+56,Tapsilog,"['TAPA (PHILIPPINES)', 'EGGS', 'RICE', 'GARLIC']","One of the most common breakfast staples in the Philippines is tapsilog, a plate which consists of sliced beef jerky, known as tapa, a heap of garlic rice, and a fried egg. It is believed that the dish grew out of necessity, to cater to the needs of many workers who were in search for a quick, cheap, and nutritious breakfast.
+
+Eventually, tapsilog was incorporated on the menus of many Filipino fast food chains and specialized tapsihan eateries. Nowadays, it appears in numerous varieties, and even though it is still a favorite Filipino breakfast it can be enjoyed at any time of day or as a satisfying late night snack."
+57,Bicol Express,"['PORK', 'COCONUT CREAM', 'SHRIMP PASTE', 'HOT PEPPERS', 'ONION', 'GARLIC', 'SALT', 'BLACK PEPPER']","Bicol express is a popular Filipino dish consisting of sliced pork that is doused in a creamy coconut-based sauce and seasoned with shrimp paste and spicy chili peppers. According to popular belief, Cely Kalaw invented the dish in her Manila restaurant.
+
+She was inspired by the traditional Bicolano coconut-infused dishes and named the new invention after a Filipino train service operating from Manila to the Bicol region. Creamy and spicy Bicol express is usually served with plain steamed rice on the side."
+58,Pinakbet,"['PORK', 'SHRIMP PASTE', 'PUMPKIN', 'SWEET POTATO', 'EGGPLANT', 'OKRA', 'GREEN BEANS', 'BITTER MELON', 'TOMATO', 'GARLIC', 'ONION', 'SALT', 'BLACK PEPPER']","Pinakbet is a traditional Filipino meat stew prepared with various vegetables and shrimp paste. It originated in the region of Ilocos, but today it appears in many regional and seasonal varieties. Most commonly, it consists of fatty pork, bitter melon, squash, sweet potatoes, eggplants, okra, and green beans.
+
+Although the ingredients may be adjusted to personal preferences, the key element of the dish is the pungent shrimp paste, which provides pinakbet with its unique flavor. This colorful and versatile stew is usually served alongside steamed rice and enjoyed as a hearty and nutritious main course."
+59,Tinolang manok,"['CHICKEN', 'PAPAYA', 'TLAOLA SERRANO CHILI PEPPER', 'GINGER', 'GARLIC', 'FISH SAUCE']","Tinolang manok or chicken tinola is a nourishing Filipino chicken soup. It can consist of various chicken cuts and internal organs cooked in a flavorful broth alongside green papaya and chili pepper or malunggay leaves. The broth is usually generously seasoned with ginger, garlic, and fish sauce, and the soup is often served over plain white rice.
+
+Chicken tinola is a staple in every Filipino household and can be enjoyed as a starter or a hearty main course."
+60,Sans rival,"['CASHEWS', 'EGGS', 'SUGAR', 'VANILLA', 'BUTTER', 'RUM']","Although undoubtedly French in origin, the decadent sans rival (lit. without rival) is a classic Filipino dessert and an all-time favorite that truly lives up to its name. It is made with layers of dacquoise; a crispy, baked nut meringue sandwiched together with the so-called pâte à bombe - a gorgeously smooth, velvety and rich French buttercream.
+
+But unlike the French original, which is traditionally made with either almond or hazelnut meringue, the Filipino version uses toasted cashews instead. Sans rival is said to have been invented sometime between the 1920s and 1930s, when many Filipinos traveled to Europe to study, and upon returning home to the Philippines, they started employing some of the cooking and patisserie techniques they learned while studying abroad. "
+61,Mechado,"['OR\nBEEF', 'PORK', 'TOMATO SAUCE', 'SOY SAUCE', 'POTATOES', 'BELL PEPPER', 'CARROT', 'GARLIC', 'ONION', 'SALT', 'BLACK PEPPER']","Mechado is a Filipino fusion dish that combines beef chunks, which are sometimes replaced with pork, and a flavorful tomato sauce. Since tomato sauce is not a common ingredient in traditional Filipino cuisine, it is believed that the dish originated under Spanish influence.
+
+Besides meat, it can also incorporate potatoes, bell peppers, carrots, and peas. It is often seasoned with soy sauce or fish sauce. Traditionally, the dish is made with inexpensive beef cuts that are inserted with strips of pork fat. The strips are known as mecha (as in candle wick), which also gave the dish its name. "
+62,Pares,"['BEEF', 'SOY SAUCE', 'STAR ANISE', 'GINGER', 'GARLIC', 'ONION', 'SUGAR', 'SALT', 'BLACK PEPPER']","Pares is a Filipino term that typically refers to a standard combination of beef stew, beef soup, and rice. The star is the stew consisting of beef chunks that are slowly braised in a flavorful stock infused with garlic, soy sauce, star anise, sugar, and a variety of other spices and condiments.
+
+The thick, rich, and slightly sweet sauce and tender meat make pares one of the most popular beef dishes in the country. The term pares translates as pairs and stems from the traditional practice of serving this satisfying stew along with fried or steamed rice and a bowl of nourishing beef stock. "
+63,Dinuguan,"['PORK', 'VINEGAR', 'FISH SAUCE', 'ONION', 'GINGER', 'GARLIC', 'SUGAR', 'TLAOLA SERRANO CHILI PEPPER']","Dinuguan is a Filipino dish which consists of a variety of animal’s internal organs stewed with blood, vinegar, garlic, and hot peppers. Traditionally, it was a dish made with byproducts of pig slaughter, but many regional varieties nowadays use chicken or beef and incorporate various ingredients and spices.
+
+This thick, flavorful stew is usually served alongside rice or rice cakes and can be enjoyed as a nutritious breakfast and a hearty lunch or dinner."
+64,Butsi,"['RICE FLOUR', 'MUNG BEAN', 'OR\nRED BEAN PASTE', 'COCONUT', 'SESAME SEEDS']","Butsi balls are the Filipino version of traditional Chinese jian dui sweets. They are made with glutinous rice flour that is formed in small round shapes and stuffed with a variety of sweet fillings such as sweetened mung bean, creamy lotus, red bean paste, or shredded coconut.
+
+Butsi are usually coated in sesame seeds and fried until golden. Even though they originated as a traditional Chinese delicacy, their Filipino adaptation has become incredibly popular. With their crispy shell, chewy texture, and creamy filling, they can be enjoyed as a satisfying dessert or a quick sweet snack."
+65,Pichi-pichi,"['CASSAVA', 'SUGAR', 'COCONUT', 'CHEESE']","Pichi-pichi is a Filipino dessert consisting of three key ingredients: grated cassava, sugar, and water. The concoction is steamed until it develops a firm, glutinous texture, and it is then rolled in desiccated coconut. The dessert is especially popular during merienda, parties, and celebrations.
+
+This delicate, sticky treat was originally invented in the Quezon Province."
+66,Puto,"['FLOUR', 'MILK', 'EGGS', 'BAKING POWDER', 'CHEESE']","The lightly sweetened puto are popular Filipino steamed rice cakes traditionally consisting of finely ground soaked rice that is steamed in round containers and served sliced. The popularity of these versatile cakes has caused the development of many modern puto varieties, which often vary in texture, color, shape, size, and flavor.
+
+Because of their neutral flavor, they can be enjoyed as a quick snack or a dessert, but they are also served as an accompaniment to savory dishes such as hearty Filipino stews."
+67,Inasal na manok,"['CHICKEN', 'VINEGAR', 'LEMONGRASS', 'GARLIC', 'GINGER']","Inasal na manok is a unique Filipino grilled chicken dish which originated in Bacolod and became the signature dish of the entire Visayas region. It employs various chicken cuts marinated in a mixture of vinegar and numerous spices such as lemongrass, garlic, and ginger.
+
+During grilling, the meat is brushed with the annatto-infused oil which provides the chicken with an appetizing golden color and a unique peppery flavor. The dish is usually served alongside annatto-flavored garlic rice and spiced vinegar."
+68,Isaw,"['OR\nPORK', 'CHICKEN', 'SOY SAUCE', 'KETCHUP', 'GARLIC', 'VINEGAR', 'ONION', 'HOT PEPPERS']","Isaw is a popular Filipino street food dish consisting of marinated, boiled, and grilled chicken and pork intestines which are usually coiled and skewered on a stick. Although similar, pork isaw is typically slightly larger and chewier than the chicken version.
+
+The marinade is usually prepared with soy sauce, oil, ketchup, garlic, and seasonings. Thoroughly cleaning and boiling the intestines before they are placed on a grill is an essential part of the preparation process because it eliminates all food-born pathogens. "
+69,Taho,"['TOFU', 'TAPIOCA', 'SUGAR']","Taho is a sweet Filipino dessert which consists of fresh soft tofu doused in arnibal syrup and sprinkled with plump sago pearls. Similar desserts can be found in numerous Asian countries, and most of them call for the usage of the softest tofu variety, known as silky tofu, which has a tender and creamy texture and an incredibly soft consistency.
+
+Shortly heated or steamed, it is covered in sweet arnibal syrup (made with melted brown sugar) and enriched with mild vanilla flavors. Usually, the dessert is topped with chewy sago pearls which are similar in appearance and texture to tapioca. Taho is usually sold by street vendors who sell this traditional delicacy in the early morning as a sweet, protein-packed breakfast."
+70,Tinola,"['OR\nCHICKEN', 'SEAFOOD', 'FISH SAUCE', 'PAPAYA', 'GINGER', 'GARLIC', 'TLAOLA SERRANO CHILI PEPPER']","The term tinola refers to a vast group of hearty Filipino soups prepared with a flavorful broth infused with garlic, ginger, and fish sauce. Most commonly, the soups are made with chicken, but pork and seafood varieties are also popular.
+
+Tinola soups can incorporate various cuts of meat and seafood ingredients which are usually cooked alongside green papaya or chayote, and chili pepper or malunggay leaves. Not much is known about the history and origin of tinola, but nowadays, they represent an irreplaceable part of traditional Filipino cuisine."
+71,Lechon kawali,"['PORK', 'SALT', 'PEPPERCORNS']","Lechon kawali is the Filipino version of deep-fried pork belly. Primarily boiled in plain or seasoned water, the meat is rubbed with salt, cut into chunks, then deep-fried until it develops a golden-brown, crispy skin, but remains juicy and tender on the inside.
+
+It is one of the most famous Filipino dishes eaten throughout the country. Always served hot, lechon kawali is usually accompanied by spicy vinegar sauce or a traditional lechon liver sauce on the side."
+72,Tocino,"['PORK', 'SUGAR', 'SALT', 'RICE WINE', 'SOY SAUCE', 'OR\nORANGE JUICE', 'PINEAPPLE JUICE']","Although the term tocino stems from Spanish, in the Philippines, the word is synonymous with sweet-cured meat, traditionally prepared with pork, and occasionally beef or chicken. Slices of meat are doused in different combination of spices and seasonings which typically include sugar, salt, rice wine vinegar, soy sauce, anise wine, and pineapple or orange juice.
+
+Common additions to the curing mixture include saltpeter food preservative and annatto—a food dye derived from the seeds of the achiote tree that imparts color and peppery flavor. Pork tocino, also known as burong babi, is most commonly only lightly pan-fried until it caramelizes and is traditionally sided with garlic fried rice, and either sunny side up or scrambled eggs. "
+73,Turon,"['PLANTAIN', 'DURIAN', 'SUGAR']","Falling in the group of popular lumpia snacks, turon is the famous Filipino treat made with saba plantains and jackfruit. The fruit is sliced lengthwise, dusted in brown sugar, enclosed in thin wheat wrappers, then fried until golden and crispy.
+
+Like other lumpia varieties, turon was also developed from the Chinese spring rolls and represents one of the most common sweet versions of the dish. Before it is served, it is commonly drizzled with caramel or sprinkled with roasted sesame seeds.
+
+It is usually sold by Filipino street vendors and enjoyed as a sweet snack or a satisfying dessert."
+74,Bulalô,"['BEEF', 'BONE MARROW', 'FISH SAUCE', 'ONION', 'CORN', 'GREEN BEANS', 'PEPPERCORNS', 'BOK CHOY']","Bulalô is a traditional Filipino soup that is prepared by cooking beef shanks and marrow bones until the fat and collagen dissolve into the broth, resulting in a robust flavor of the dish. The soup is a specialty of the Luzon region, where it is traditionally consumed during cold weather, when it is usually served for dinner.
+
+Most versions of the soup include vegetables such as cabbage, string beans, onions, and corn. It can be found in most upscale restaurants in the Philippines, due to the fact that beef shank and bone marrow are not among the cheapest cuts of meat in the country. "
+75,Pinangat,"['OR\nTUNA', 'OR\nSARDINES', 'PORK', 'COCONUT MILK', 'GINGER', 'TARO', 'LEMONGRASS', 'HOT PEPPERS']","Pinangat is a popular Filipino stew that is prepared in two main versions. The sour version is prepared with fish, bilimbi, tamarind, and vinegar, while the Bicol region version is prepared with coconut milk, taro leaves, hot chili peppers, and fish (sardines, catfish, or tuna).
+
+Bicol region is abundant with taro leaves, so it is unsurprising that taro is a key ingredient in many Bicolano delicacies. Pinangat is served with a variety of toppings, and is usually ladled over rice. Cooking the dish is an easy process that only requires combining all of the ingredients and cooking them together, which is one of the main reasons for its popularity. "
+76,Halo-Halo,"['ICE CREAM', 'LECHE FLAN', 'MILK', 'BANANAS', 'DURIAN', 'MUNG BEAN', 'COCONUT', 'SWEET POTATO', 'YAM', 'SUGAR']","The refreshing halo-halo (lit. mix-mix) is a summer dessert or a snack of mixed fruit and beans, topped with finely crushed ice and either milk or ice cream. Some of the most common halo-halo ingredients include bananas, jackfruit, coconut, sweet potatoes, red mung beans, chickpeas, sugar palm fruit, purple yam jam, leche flan, and - in recent times - even sweet corn or corn crisps.
+
+Originally, halo-halo desserts were sold by Japanese vendors in halo-halo parlors or at numerous street stalls before the occupation of the Philippines in the 1940s. In fact, this Filipino specialty is often said to have been inspired by a shaved-ice cooler called anmitsu, another Japanese summer drink."
+77,Pancit canton,"['NOODLES', 'OR\nPORK', 'OR\nBEEF', 'SEAFOOD', 'SOY SAUCE', 'CARROT', 'ONION', 'CABBAGE', 'GREEN BEANS']","Pancit canton is a Filipino dish of Chinese origin which combines yellow wheat noodles and a variety of meat, seafood, and vegetables, blended with a flavorful mixture of soy and oyster sauce. The ingredients are easily adjusted to taste, availability, and preference and can be prepared separately or shortly stir-fried alongside noodles.
+
+Since long and thick noodles symbolize long and prosperous life, this versatile and colorful dish is usually served on special occasions, such as various celebrations and birthday parties."
+78,Tapa (Philippines),"['BEEF', 'LIME', 'SOY SAUCE', 'GARLIC', 'SUGAR']","In Filipino cuisine, tapa most commonly denotes thinly sliced beef sirloin that is traditionally placed in a sweet, salty, and tangy marinade made with calamansi lemonade and soy sauce, flavored with sugar and minced garlic. Other meats used to make tapa include mutton, venison, wild boar, horse, deer, and also the meat of carabao - a swamp-type domestic water buffalo native to the Philippines.
+
+Tapa is typically either grilled or pan-fried, and it is best enjoyed when served as a part of the so-called tapsilog, which is a portmanteau of the Filipino words tapa and sinangag, meaning garlic-fried rice, and itlog, meaning eggs. "
+79,Leche Flan,"['EGGS', 'MILK', 'CONDENSED MILK', 'SUGAR', 'VANILLA']","Leche flan is a Filipino dessert that is essentially a caramel custard consisting of milk, sugar, and eggs, with the addition of vanilla flavoring. Traditionally, it's oval-shaped due to the use of tin molds called llaneras. It is recommended to serve it chilled and coated with leftover caramel syrup.
+
+Leche flan is very popular at numerous Filipino celebrations and social gatherings. Originally, it was brought over to the Philippines during the Spanish colonization, so it is believed that it has origins in the regions on the border of Spain and France. "
+80,Silog,"['RICE', 'EGGS', 'GARLIC', 'OR\nTAPA (PHILIPPINES)', 'OR\nHOT DOG', 'OR\nTOCINO', 'OR\nBANGUS', 'OR\nSPAM', 'CHICKEN']","Silog refers to a group of Filipino dishes that are traditionally served for breakfast. The name is an abbreviation for sinangang at itlog, meaning fried garlic rice and eggs. The difference between each of these dishes is in the additional component that's served with the garlic rice and eggs, such as tapa (sliced meat), longganisa sausages, tocino bacon, bangus milkfish belly, chorizo, hot dogs, pork chops, Spam, fried chicken, or beefsteak, among others.
+
+It is believed that the first type of silog was tapsilog, invented in the 1980s in Marikina City. These breakfast items are so popular that they can nowadays be found in fast food chains, hotels, and restaurants."
+81,Crispy Pata,"['PORK', 'BAY LEAF', 'PEPPERCORNS', 'SALT']","Crispy pata is one of the most common Filipino dishes served on special occasions. It consists of a whole pork leg that is cooked until tender. It is then dried and deep-fried until golden brown and crispy. The leg is usually cooked alongside various spices such as bay leaves and peppercorns.
+
+It is traditionally rubbed with a spice mixture before it is fried. Served sliced, it is often accompanied by pickled papaya and a tart sauce which combines vinegar, soy sauce, and a variety of spices."
+82,Sinigang,"['OR\nTAMARIND', 'GUAVA', 'OR\nPORK', 'OR\nSEAFOOD', 'OR\nCHICKEN', 'BEEF', 'FISH SAUCE', 'WATER SPINACH', 'SILING MAHABA', 'ONION', 'TOMATO', 'BROCCOLI', 'GREEN BEANS', 'GINGER', 'GARLIC', 'OKRA', 'EGGPLANT', 'RADISH', 'CABBAGE', 'SALT']","Sinigang is a sour Filipino soup consisting of sampalok (fruits of the tamarind tree), water spinach, hot peppers, cabbage, broccoli, eggplant, diced tomatoes, sliced onions, ginger, garlic, green beans, fish sauce, and salt. The basic broth usually consists of rice washing, with the addition of a souring agent.
+
+Ingredients such as pork, fish, milkfish, shrimp, chicken, or beef may also be added to the soup. Sinigang is traditionally served piping hot as a main dish, with rice as its accompaniment. It's an often seen dish at special occasions such as birthdays or weddings, and over time, as the dish became more popular, there were new variations that used guava or raw mango instead of sampalok, and each region developed their own version of the popular soup. "
+83,Kaldereta,"['OR\nBEEF', 'GOAT', 'TOMATO SAUCE', 'POTATOES', 'CARROT', 'ONION', 'BAY LEAF', 'BELL PEPPER', 'GARLIC', 'BLACK PEPPER']","Kaldereta is a Filipino meat stew that is traditionally served with a side of white rice. Although any kind of meat can be used in the stew, beef and goat are the preferred options. The dish is influenced by three centuries of Spanish colonization, and the word kaldereta is derived from the Spanish caldereta, meaning cooking pot or cauldron.
+
+Besides meat that is used in the dish, other ingredients include mashed liver, tomato sauce, and seasonings such as onions, salt, pepper, and garlic. Kaldereta is often garnished with sliced tomatoes, chopped onions, or fried potatoes on top, and can be found in numerous Filipino turo-turo joints."
+84,Torta,"['EGGS', 'BEEF', 'ONION', 'POTATOES', 'EGGPLANT', 'TOMATO']","Torta is a popular Filipino dish consisting of an omelet filled with ground meat and vegetables such as diced potatoes. Savory and extremely satisfying, the dish is usually served as a main course, preferably over rice. It is recommended to pair torta with condiments such as banana ketchup.
+
+There are numerous variations on the Filipino torta, such as tortang talong (eggplant omelet) and tortang gulay (onion, bell peppers, and garlic omelet). The reason for the unusual name of this dish is a strong Spanish influence in the Philippines. "
+85,Kare-kare,"['OR\nPORK', 'OR\nOXTAIL', 'OR\nCHICKEN', 'GOAT', 'PEANUT BUTTER', 'PEANUTS', 'LONG BEANS', 'EGGPLANT', 'BOK CHOY', 'GARLIC', 'ONION', 'SALT', 'BLACK PEPPER', 'SHRIMP PASTE']","Kare-kare is a traditional Filipino stew consisting of meat such as tripe, pork leg, ox tail, goat or chicken, vegetables, and a thick, savory peanut sauce flavored with annatto seeds. Shrimp paste (bagoong) is often served on the side in order to enhance the flavors of the dish.
+
+Kare-kare is traditionally cooked in a clay cooking pot known as palayok, and the vessel also acts as a serving bowl once the dish is properly cooked. Nowadays, it is often served at numerous Filipino festivities. Some believe that kare-kare has origins in the Pampanga region, while others claim that the name of the dish is derived from the Indian word curry, and that it was introduced to the Philippines by Indians from the Rizal province. "
+86,Lumpia,['LUMPIANG SHANGHAI'],"Lumpia is a simple and flavourful Filipino finger food that evolved from the Chinese spring rolls. Each lumpia consists of a rice or flour dough wrap that is stuffed with meat (most often ground pork or beef) and vegetables such as cabbage, carrots, onions, and garlic.
+
+It is then sealed with egg wash and fried. Once it has been prepared, its crusty, crunchy exterior and tender interior are perfectly complemented with the sweet and sour dipping sauce. It can be eaten as a snack or as a side dish, and it is almost impossible to see a Filipino feast without at least one variation of lumpia, such as unfried lumpia, lumpia with bean sprouts, hearts of coconut palm, bangus, or saba bananas (ripe plantains)."
+87,Adobo,"['OR\nCHICKEN', 'OR\nPORK', 'SQUID', 'VINEGAR', 'SOY SAUCE', 'BAY LEAF', 'GARLIC', 'OIL', 'SALT', 'BLACK PEPPER', 'SUGAR']","Adobo is the closest thing to a national dish in the Philippines, consisting of seared and browned chunks of meat, seafood, fruit, or vegetables mixed with white vinegar or soy sauce (or both), bay leaves, garlic, salt, sugar, oil, and black pepper.
+
+The combination of these ingredients is left to simmer over low heat, resulting in succulent, juicy, and tender ingredients covered in thick, rich, and savory sauce. Adobo got its name from the Spanish word adobar, meaning marinade or pickling sauce. "
+88,Sisig,"['PORK', 'OFFAL', 'VINEGAR', 'ONION', 'HOT PEPPERS', 'SOY SAUCE', 'BLACK PEPPER', 'SALT', 'EGGS']","Sisig is a popular Filipino dish made by boiling, chopping, and grilling parts of pig's head such as ears, cheeks, and jowls, which are then seasoned with salt, pepper, and vinegar. The meat is combined with fried onions, sili, and chicken livers, and the whole concoction is traditionally topped with a raw egg.
+
+Some cooks like to add mayonnaise or pork cracklings into the dish for extra flavor. Originally, sisig had no meat in it, and was first described in a 1732 Kapampangan dictionary by Fr. Diego Bergano as a salad consisting of guava or green papaya.
+
+The name of the dish is believed to derive from the word sisigan, meaning to make sour. "
+89,Lechon,"['PORK', 'ONION', 'GARLIC', 'LEMONGRASS', 'BAY LEAF', 'SALT', 'BLACK PEPPER']","Lechon, derived from a Spanish word for roasted suckling pig is one of the most popular dishes in the Philippines. The slowly-roasted suckling pig is usually stuffed with lemongrass, tamarind, garlic, onions, and chives, and is then roasted on a large bamboo spit over an open fire.
+
+It is traditionally served whole on a platter, at celebrations and festive events such as weddings and Christmas. Once the meat is properly roasted and falls off the bone, people tend to eat every part of the pig, and the crispy, reddish-brown, crackling skin is especially beloved. "
+90,Pancit,"['PANCIT CANTON', 'PANCIT BIHON', 'PANCIT PALABOK', 'PANCIT MALABON', 'PANCIT LOMI', 'PANCIT LUCBAN', 'PANCIT BATIL PATONG', 'PANCIT SOTANGHON']","Pancit is a staple Filipino dish found at numerous feasts and celebrations, consisting of stir-fried noodles with meat and vegetables such as chicken, pork, shrimp, celery, carrots, onions, garlic, and cabbage. The dish has Chinese origins, and the name of the dish is derived from the Hokkien phrase pian i sit, meaning something convenient, cooked fast.
+
+Over time, pancit evolved and became a signature Filipino dish, so today, there are numerous variations of pancit such as pancit canton and pancit bihon. Egg noodles are used for pancit canton, while thin, translucent rice noodles are used for pancit bihon. "
