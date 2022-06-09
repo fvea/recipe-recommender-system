@@ -26,7 +26,7 @@ for link_text in link_texts:
         for article in articles:
             ulam_title = article.find_element_by_tag_name('h2').text
             ulam_desc = article.find_element_by_class_name("description").text
-            # ulam_pic_link = article.find_element_by_class_name("swiper-slide")
+            ulam_pic_link = article.find_element_by_class_name("swiper-slice").get_attribute("lazy-src")
             try:
                 ul_elem = article.find_element_by_tag_name('ul')
             except:
